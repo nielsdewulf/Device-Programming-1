@@ -1,0 +1,161 @@
+{
+  "info": {
+    "_postman_id": "fa1d64b8-5b4f-4289-8643-3b7ed5c99dc6",
+    "name": "Verkiezingen_2018",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Kieskringen",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": ""
+        },
+        "url": {
+          "raw": "http://127.0.0.1:5000/api/v1/kieskringen",
+          "protocol": "http",
+          "host": [
+            "127",
+            "0",
+            "0",
+            "1"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "v1",
+            "kieskringen"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Partijen per kieskring",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": ""
+        },
+        "url": {
+          "raw": "http://127.0.0.1:5000/api/v1/kieskring/kortrijk/partijen",
+          "protocol": "http",
+          "host": [
+            "127",
+            "0",
+            "0",
+            "1"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "v1",
+            "kieskring",
+            "kortrijk",
+            "partijen"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Kandidaten per kieskring per partij",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": ""
+        },
+        "url": {
+          "raw": "http://127.0.0.1:5000/api/v1/kieskring/kortrijk/partij/SP.A Kortrijk/verkozen",
+          "protocol": "http",
+          "host": [
+            "127",
+            "0",
+            "0",
+            "1"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "v1",
+            "kieskring",
+            "kortrijk",
+            "partij",
+            "SP.A Kortrijk",
+            "verkozen"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "verkozen kandidaten per kieskring per partij",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": ""
+        },
+        "url": {
+          "raw": "http://127.0.0.1:5000/api/v1/kieskring/kortrijk/partij/SP.A Kortrijk/verkozen",
+          "protocol": "http",
+          "host": [
+            "127",
+            "0",
+            "0",
+            "1"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "v1",
+            "kieskring",
+            "kortrijk",
+            "partij",
+            "SP.A Kortrijk",
+            "verkozen"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "verkozen kandidaten per kieskring",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": ""
+        },
+        "url": {
+          "raw": "http://127.0.0.1:5000/api/v1/kieskring/kortrijk/verkozen",
+          "protocol": "http",
+          "host": [
+            "127",
+            "0",
+            "0",
+            "1"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "v1",
+            "kieskring",
+            "kortrijk",
+            "verkozen"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}

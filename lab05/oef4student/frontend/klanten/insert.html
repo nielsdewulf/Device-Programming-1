@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <title>Klanten</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="../style/reset.css"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="../style/screen.css"/>
+    <script src="../script/dataHandler.js"></script>
+    <script src="../script/klanten/insert.js"></script>
+</head>
+<body>
+<h1>Nieuwe Klant</h1>
+<p><a href="./">Back to Klanten</a></p>
+<div id="result"></div>
+<form>
+    <div>
+        <label for="FNaam">FNaam</label>
+        <input type="text" name="FNaam" id="FNaam" value="FNaam"/>
+    </div>
+    <div>
+        <label for="VNaam">VNaam</label>
+        <input type="text" name="VNaam" id="VNaam" value="VNaam"/>
+    </div>
+    <div>
+        <label for="Straat">Straat</label>
+        <input type="text" name="Straat" id="Straat" value="Hierzo"/>
+    </div>
+    <div>
+        <label for="Nummer">Nummer</label>
+        <input type="number" name="Nummer" id="Nummer" value="54"/>
+    </div>
+    <div>
+        <label for="Postcode">Postcode</label>
+        <input type="number" name="Postcode" id="Postcode" value="8500"/>
+    </div>
+    <div>
+        <label for="Gemeente">Gemeente</label>
+        <input type="text" name="Gemeente" id="Gemeente" value="Kortrijk"/>
+    </div>
+    <input type="button" id="add" value="Toevoegen"/>
+</form>
+</body>
+</html>

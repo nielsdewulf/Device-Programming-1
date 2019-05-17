@@ -1,0 +1,232 @@
+{
+  "info": {
+    "_postman_id": "b210da8d-3eda-49da-b411-2d8071fb34fe",
+    "name": "DP1: Les06: Herhaling_treinen",
+    "description": "Labo 6",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "1. GET Alle Bestemmingen",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": ""
+        },
+        "url": {
+          "raw": "http://127.0.0.1:5000/api/v1/bestemmingen",
+          "protocol": "http",
+          "host": [
+            "127",
+            "0",
+            "0",
+            "1"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "v1",
+            "bestemmingen"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "2. GET treinen met hun bestemming",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": ""
+        },
+        "url": {
+          "raw": "http://127.0.0.1:5000/api/v1/treinen",
+          "protocol": "http",
+          "host": [
+            "127",
+            "0",
+            "0",
+            "1"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "v1",
+            "treinen"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "3. POST nieuwe trein",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "name": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n        \"afgeschaft\": 0,\n        \"bestemmingID\": 100,\n        \"spoor\": 99,\n        \"vertraging\": null,\n        \"vertrek\": \"23:00:00\"\n    }"
+        },
+        "url": {
+          "raw": "http://127.0.0.1:5000/api/v1/treinen",
+          "protocol": "http",
+          "host": [
+            "127",
+            "0",
+            "0",
+            "1"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "v1",
+            "treinen"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "4. GET voor een specifieke  trein",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": ""
+        },
+        "url": {
+          "raw": "http://127.0.0.1:5000/api/v1/treinen/20",
+          "protocol": "http",
+          "host": [
+            "127",
+            "0",
+            "0",
+            "1"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "v1",
+            "treinen",
+            "20"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "5. PUT voor een specifieke trein",
+      "request": {
+        "method": "PUT",
+        "header": [
+          {
+            "key": "Content-Type",
+            "name": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n        \"afgeschaft\": 1,\n        \"bestemmingID\": 100,\n        \"spoor\": 88,\n        \"vertraging\": 5,\n        \"vertrek\": \"23:59:00\"\n    }"
+        },
+        "url": {
+          "raw": "http://127.0.0.1:5000/api/v1/treinen/22",
+          "protocol": "http",
+          "host": [
+            "127",
+            "0",
+            "0",
+            "1"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "v1",
+            "treinen",
+            "22"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "6. DEL van een specifieke trein",
+      "request": {
+        "method": "DELETE",
+        "header": [
+          {
+            "key": "Content-Type",
+            "name": "Content-Type",
+            "value": "application/json",
+            "type": "text",
+            "disabled": true
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": ""
+        },
+        "url": {
+          "raw": "http://127.0.0.1:5000/api/v1/treinen/24",
+          "protocol": "http",
+          "host": [
+            "127",
+            "0",
+            "0",
+            "1"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "v1",
+            "treinen",
+            "24"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "7. GET van een trein naar een specifieke bestemming",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": ""
+        },
+        "url": {
+          "raw": "http://127.0.0.1:5000/api/v1/treinen/22",
+          "protocol": "http",
+          "host": [
+            "127",
+            "0",
+            "0",
+            "1"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "v1",
+            "treinen",
+            "22"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}

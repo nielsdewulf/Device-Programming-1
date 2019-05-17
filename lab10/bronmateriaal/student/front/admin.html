@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Meta data -->
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <title>Verkiezingen</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" type="text/css" media="screen" href="style/reset.css"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="style/screen.css"/>
+
+    <!-- Script -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js"
+            integrity="sha256-yr4fRk/GU1ehYJPAs8P4JlTgu0Hdsp4ZKrx8bDEDC3I=" crossorigin="anonymous"></script>
+    <script defer src="script/admin.js"></script>
+</head>
+<body>
+<div class="c-app">
+    <a href="/" class="c-logo">
+        <img src="assets/Vlaanderen_verbeelding werkt.svg"/>
+    </a>
+
+    <div class="c-topbar">
+        <label for="kieskring">Activeer resultaten</label>
+
+        <form>
+            <input type="checkbox" class="js-chk"/>
+        </form>
+
+        <div class="js-huidigestatus"></div>
+    </div>
+</div>
+</body>
+</html>

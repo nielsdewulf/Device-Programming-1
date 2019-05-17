@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(252, 246, 225)
+}
+
+.container {
+    width: 50%;
+    min-width: 300px;
+    margin: auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    padding: 0.5rem;
+    justify-content: flex-end;
+}
+
+.row label {
+    flex-basis: 33.3333%
+}
+
+.row select, .row input {
+    flex-basis: 66.6666%
+}
+
+input[type=submit] {
+    background-color: orange;
+}
+
+input[type=number]:invalid {
+    border: thin red solid
+}

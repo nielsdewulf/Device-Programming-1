@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+          integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+          crossorigin=""/>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        #mapid,
+        body {
+            height: 100vh;
+        }
+    </style>
+    <script src="script/dataHandler.js"></script>
+    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+            integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+            crossorigin=""></script>
+    <script src="script/leaflet-providers.js"></script>
+    <script src="script/script.js"></script>
+    <link rel="stylesheet" href="style/screen.css"/>
+    <title>Document</title>
+</head>
+<body>
+<div id="form">
+    <label for="keuze">Keuze:</label>
+    <select name="keuze" id="keuze"> </select>
+    Toon plaatsen:
+    <input type="checkbox" name="parkings[]" id="Occupied" value="0"/><label for="Occupied">Bezet</label>
+    <input type="checkbox" name="parkings[]" id="Free" value="1" checked/> <label for="Free">Vrij</label>
+    <input type="checkbox" name="parkings[]" id="Unknown" value="2"/><label for="Unknown">Onbekend</label>
+</div>
+<div id="mapid"></div>
+
+<script></script>
+</body>
+</html>

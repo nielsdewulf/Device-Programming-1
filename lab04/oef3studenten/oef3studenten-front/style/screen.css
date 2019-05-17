@@ -1,0 +1,23 @@
+.puntenbalk {
+    background-color: hotpink;
+    height: 20px;
+    width: 100%;
+}
+
+.gebuisd .punt {
+    color: red;
+}
+
+.geslaagd .punt {
+    color: green;
+}
+
+.gebuisd .puntenbalk {
+    background-color: red;
+}
+
+.geslaagd .puntenbalk {
+    background-color: green;
+}
+
+

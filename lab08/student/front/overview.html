@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Drink Water</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="./style/screen.css"/>
+    <link href="https://fonts.googleapis.com/css?family=Oswald:400,700" rel="stylesheet">
+
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js"></script>
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
+    <script defer src="./script/dashboard.js"></script>
+    <script defer src="./script/dataHandler.js"></script>
+
+</head>
+
+<body>
+<main class="c-dashboard">
+    <h1>Hoeveel water heb je gedronken?</h1>
+    <h2>Alle data (live)</h2>
+    <div class="c-table js-table">
+        <div class="c-row is-header">
+            <div class="c-cell">Loading data...</div>
+        </div>
+
+    </div>
+
+    <h2 style="text-decoration: line-through;">Tabel weergave (Niet functioneel)</h2>
+    <canvas id="waterData" width="3" height="2"></canvas>
+</main>
+
+</body>
+
+</html>

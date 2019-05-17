@@ -1,0 +1,36 @@
+
+.locatie {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    border: thin solid #F00;
+    margin-bottom: 0.5rem;
+
+}
+
+.locatie > .adres {
+    background: #00F;
+    color: #FFF;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0.5rem 0rem;
+    font-weight: 900;
+    font-size: 1.25rem;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    align-content: stretch;
+}
+
+.row > div {
+    border: solid thin #F00;
+    flex-grow: 1;
+    text-align: center;
+
+}
+
+.aantal {
+    font-size: 1.5rem;
+}

@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#mapid,
+body {
+    height: calc(100vh - 50px);
+}
+
+div#form {
+    height: 50px;
+    padding: 10px;
+}

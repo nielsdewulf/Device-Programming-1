@@ -1,0 +1,93 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#info-bike {
+    width: 80vw;
+    border: solid thin #CCC;
+    display: flex;
+    flex-direction: row;
+}
+
+#info-bike > .cover {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 3;
+    flex-basis: 0;
+    background-image: url('../images/bluebike/cover.jpg');
+    background-size: cover;
+    color: #FFF;
+    font-family: 'Arial Rounded MT Bold', 'Helvetica Rounded', Arial, sans-serif;
+}
+
+#info-bike > .cover h1 {
+    text-align: center;
+}
+
+#info-bike > .gebruik {
+    flex-grow: 1;
+    flex-basis: 0;
+}
+
+#info-bike > .gebruik > div {
+    color: #FFF;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0;
+    justify-content: space-between;
+    padding: 0.5rem
+}
+
+#info-bike > .gebruik > div > h2 {
+    margin: 0;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#info-bike > .gebruik > div .aantal {
+    text-align: right;
+    font-size: 4rem;
+    font-family: 'Arial Rounded MT Bold', 'Helvetica Rounded', Arial, sans-serif;
+}
+
+.beschikbaar {
+    background-color: rgb(16, 134, 1);
+}
+
+.ingebruik {
+    background-color: rgb(1, 54, 134);
+}
+
+.defect {
+    background-color: rgb(134, 1, 19);
+}
+
+@media only screen and (max-width: 800px) {
+    #info-bike {
+        width: 500px;
+        min-width: 500px;
+        flex-direction: column;
+    }
+
+    #info-bike > .cover {
+        height: 300px;
+        flex-basis: auto;
+    }
+
+    #info-bike > .gebruik {
+        flex-direction: row;
+        display: flex;
+        justify-content: stretch;
+        flex-basis: auto;
+    }
+
+    #info-bike h2 {
+        font-size: 1rem;
+    }
+}

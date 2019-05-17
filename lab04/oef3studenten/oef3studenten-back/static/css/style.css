@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: VAGRoundedBold;
+    src: url("vagroundedstd-bold-webfont.woff");
+}
+
+body {
+    background-color: #44c8f5;
+    font-family: "VAGRoundedBold", sans-serif;
+    color: white;
+    padding: 2em;
+}
+
+table, tr {
+    border: 1px solid white;
+}
+
+td, th {
+    padding: 10px;
+    border: 1px solid white;
+}
+
+th {
+    background: #fff200;
+    color: #333333;
+}
+
+.today {
+    color: #ec008c;
+}

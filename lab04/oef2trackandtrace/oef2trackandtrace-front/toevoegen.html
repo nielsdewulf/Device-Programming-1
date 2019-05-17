@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <title>Track and Trace - Add</title>
+    <link rel="stylesheet" href="style/trace.css"/>
+</head>
+
+<body>
+<div class="container">
+    <h1>Track and Trace</h1>
+    <div class="cover"></div>
+    <div class="col">
+        <h2>Pakket toevoegen</h2>
+        <div class="row">
+            <form action="http://localhost:5000/api/v1/track" method="POST">
+                <div>
+                    <label class="label" for="nummer">Nummer</label>
+                    <div class="uitleg">
+                        <input type="text" id="nummer" name="nummer"/>
+                    </div>
+                </div>
+                <div>
+                    <label class="label" for="naam">Naam</label>
+                    <div class="uitleg">
+                        <input type="text" id="naam" name="naam"/>
+                    </div>
+                </div>
+                <div>
+                    <label class="label" for="postcode">Postcode</label>
+                    <div class="uitleg">
+                        <input type="number" id="postcode" name="postcode"/>
+                    </div>
+                </div>
+                <div>
+                    <div class="uitleg">
+                        <input type="submit" value="Submit"/>
+                    </div>
+            </form>
+        </div>
+    </div>
+</div>
+</body>
+
+</html>

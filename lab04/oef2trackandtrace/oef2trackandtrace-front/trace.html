@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <title>Track and Trace - Overzicht</title>
+    <link rel="stylesheet" href="style/trace.css"/>
+    <script src="./script/trace.js"></script>
+</head>
+<body>
+<div class="container">
+    <h1>Track and Trace</h1>
+    <div class="cover"></div>
+    <div class="col">
+        <h2>Te zoeken pakket</h2>
+        <div class="row">
+            <div class="label">Nummer</div>
+            <div class="uitleg"><input type="text" name="trace-nr" id="trace-nr"/></div>
+            <button id="zoek">Zoek op</button>
+        </div>
+    </div>
+    <div id="detail-element" class="col">
+        <div class="row">
+            <div class="label">Naam:</div>
+            <div class="uitleg" id="naam-verzender"></div>
+        </div>
+        <div class="row">
+            <div class="label">Postcode:</div>
+            <div class="uitleg" id="postcode-verzender"></div>
+        </div>
+    </div>
+    <div id="step-element" class="row">
+        <div class="trace-step done" id="step-drop-off">
+            <div class="step-info">Drop off</div>
+            <div class="icon"><img src="image/gift.png" alt="dropoff"/></div>
+            <div class="datum">????-??-??</div>
+        </div>
+        <div class="trace-step done actief" id="step-warehouse">
+            <div class="step-info">Warehouse</div>
+            <div class="icon">
+                <img src="image/warehouse.png" alt="warehouse"/>
+            </div>
+            <div class="datum">????-??-??</div>
+        </div>
+        <div class="trace-step" id="step-out-for-delivery">
+            <div class="step-info">Out For Delivery</div>
+            <div class="icon">
+                <img src="image/shipped.png" alt="out for delivery"/>
+            </div>
+            <div class="datum">????-??-??</div>
+        </div>
+        <div class="trace-step" id="step-deliverd">
+            <div class="step-info">Delivered</div>
+            <div class="icon">
+                <img src="image/delivery.png" alt="delivered"/>
+            </div>
+            <div class="datum">????-??-??</div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

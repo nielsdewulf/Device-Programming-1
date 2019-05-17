@@ -1,0 +1,88 @@
+.container {
+    max-width: 700px;
+    min-width: 500px;
+    margin: auto;
+    border: solid 1px rgb(231, 8, 8);
+    font-family: 'Helvetica Neue';
+}
+
+h1,
+h2 {
+    margin: 0px;
+    padding: 0.5rem;
+    color: rgb(51, 51, 51);
+    font-weight: normal;
+}
+
+.cover {
+    height: 200px;
+    background-image: url('../image/background.png');
+
+    background-size: cover;
+}
+
+.col {
+    display: flex;
+    flex-flow: column;
+}
+
+.row {
+    display: flex;
+    flex-flow: row;
+    align-content: space-between;
+}
+
+.trace-step {
+    background-color: #eee;
+    display: flex;
+    flex-grow: 1;
+    flex-basis: 25%;
+    flex-flow: column;
+    margin: 0.5rem;
+    padding: 10px 10px 10px 10px;
+    justify-content: space-between;
+    border-bottom: solid 5px #eee;
+    opacity: 0.2;
+}
+
+.trace-step.actief {
+    border-bottom-color: rgb(231, 8, 8);
+}
+
+.trace-step.done {
+    opacity: 1;
+}
+
+.trace-step > .step-info {
+    text-align: center;
+    color: rgb(231, 8, 8);
+    font-weight: bold;
+}
+
+.trace-step > .icon {
+    margin-top: 5px;
+}
+
+.trace-step > .icon > img {
+    width: 100%;
+}
+
+.trace-step > .datum {
+    text-align: center;
+    font-size: 0.75em;
+}
+
+.label {
+    font-weight: bold;
+    padding: 0.5rem;
+    flex-basis: 100px;
+    color: rgb(51, 51, 51);
+}
+
+.uitleg {
+    padding: 0.5rem;
+}
+
+.hide {
+    display: none;
+}

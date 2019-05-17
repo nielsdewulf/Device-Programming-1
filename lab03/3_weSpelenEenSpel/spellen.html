@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <link rel="stylesheet" href="style/spellen.css"/>
+    <script src="script/spellen.js"></script>
+
+    <title>Spellen</title>
+</head>
+
+<body>
+<section>
+    <h1>We spelen een spel vanavond!</h1>
+    <div class="pure-g">
+        <form action="https://diero.be/NMCT/showpost.php" method="POST">
+            <div>
+                <label for="voornaam">voornaam</label>
+                <input type="text" name="voornaam" id="voornaam" required pattern="([A-Z,a-z,-]){2,}"/>
+            </div>
+            <div>
+                <label for="naam">Naam</label>
+                <input type="text" name="naam" id="naam" required pattern="([A-Z,a-z,',-]){2,}"/>
+            </div>
+            <div>
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email" required/>
+            </div>
+            <div>
+                <label for="spel">Spel</label>
+                <select name="spel" id="spel">
+                    <option value="" selected disabled>Maak een keuze.</option>
+                </select>
+            </div>
+            <div>
+                <input type="checkbox" name="voorwaarden" id="voorwaarden" required/>
+                <label for="voorwaarden">Ik ga akkoord</label>
+            </div>
+            <div>
+                <input type="submit" value="Verzenden" id="verzenden" name="submit"/>
+            </div>
+        </form>
+        <div id="thumb"></div>
+    </div>
+</section>
+</body>
+</html>

@@ -1,0 +1,529 @@
+{
+  "info": {
+    "_postman_id": "ab7f766d-39a1-47d6-8eee-602cfbde9560",
+    "name": "DP1: Les 05: CRUD",
+    "description": "Voorbeelden van de les CRUD",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "1. tblKlant",
+      "item": [
+        {
+          "name": "Oefening1: GET alle klanten",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": [],
+            "body": {},
+            "url": {
+              "raw": "http://127.0.0.1:5000/api/v1/klanten",
+              "protocol": "http",
+              "host": [
+                "127",
+                "0",
+                "0",
+                "1"
+              ],
+              "port": "5000",
+              "path": [
+                "api",
+                "v1",
+                "klanten"
+              ]
+            },
+            "description": "Alle Klanten"
+          },
+          "response": []
+        },
+        {
+          "name": "Oefening2: GET 1 klant",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": ""
+            },
+            "url": {
+              "raw": "http://127.0.0.1:5000/api/v1/klanten/197",
+              "protocol": "http",
+              "host": [
+                "127",
+                "0",
+                "0",
+                "1"
+              ],
+              "port": "5000",
+              "path": [
+                "api",
+                "v1",
+                "klanten",
+                "197"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Oefening3: POST",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "urlencoded",
+              "urlencoded": [
+                {
+                  "key": "FNaam",
+                  "value": "Roobrouck",
+                  "type": "text"
+                },
+                {
+                  "key": "VNaam",
+                  "value": "Dieter",
+                  "type": "text"
+                },
+                {
+                  "key": "Straat",
+                  "value": "Graaf Karel De Goedelaan",
+                  "type": "text"
+                },
+                {
+                  "key": "Nummer",
+                  "value": " 5",
+                  "type": "text"
+                },
+                {
+                  "key": "Postcode",
+                  "value": "8500",
+                  "type": "text"
+                },
+                {
+                  "key": "Gemeente",
+                  "value": "Kortrijk",
+                  "type": "text"
+                }
+              ]
+            },
+            "url": {
+              "raw": "http://127.0.0.1:5000/api/v1/klanten",
+              "protocol": "http",
+              "host": [
+                "127",
+                "0",
+                "0",
+                "1"
+              ],
+              "port": "5000",
+              "path": [
+                "api",
+                "v1",
+                "klanten"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Oefening 4: PUT",
+          "request": {
+            "method": "PUT",
+            "header": [
+              {
+                "key": "Content-Type",
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "urlencoded",
+              "urlencoded": [
+                {
+                  "key": "KlantID",
+                  "value": "197",
+                  "type": "text"
+                },
+                {
+                  "key": "FNaam",
+                  "value": "Laprudence",
+                  "type": "text"
+                },
+                {
+                  "key": "VNaam",
+                  "value": "Martijn",
+                  "type": "text"
+                },
+                {
+                  "key": "Straat",
+                  "value": "Graaf Karel De Goedelaan",
+                  "type": "text"
+                },
+                {
+                  "key": "Nummer",
+                  "value": " 5",
+                  "type": "text"
+                },
+                {
+                  "key": "Postcode",
+                  "value": "8500",
+                  "type": "text"
+                },
+                {
+                  "key": "Gemeente",
+                  "value": "Kortrijk",
+                  "type": "text"
+                }
+              ]
+            },
+            "url": {
+              "raw": "http://127.0.0.1:5000/api/v1/klanten/197",
+              "protocol": "http",
+              "host": [
+                "127",
+                "0",
+                "0",
+                "1"
+              ],
+              "port": "5000",
+              "path": [
+                "api",
+                "v1",
+                "klanten",
+                "197"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Oefening 5: DELETE",
+          "request": {
+            "method": "DELETE",
+            "header": [
+              {
+                "key": "Content-Type",
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": ""
+            },
+            "url": {
+              "raw": "http://127.0.0.1:5000/api/v1/klanten/197",
+              "protocol": "http",
+              "host": [
+                "127",
+                "0",
+                "0",
+                "1"
+              ],
+              "port": "5000",
+              "path": [
+                "api",
+                "v1",
+                "klanten",
+                "197"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Oefening 6: POST - JSON",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "name": "Content-Type",
+                "value": "application/json",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"FNaam\": \"Biebie\",\n    \"Gemeente\": \"Kortrijk\",\n    \"Nummer\": \" 5\",\n    \"Postcode\": 8500,\n    \"Straat\": \"Graaf Karel De Goedelaan\",\n    \"VNaam\": \"Baloe\"\n}"
+            },
+            "url": {
+              "raw": "http://127.0.0.1:5000/api/v1/klanten_json",
+              "protocol": "http",
+              "host": [
+                "127",
+                "0",
+                "0",
+                "1"
+              ],
+              "port": "5000",
+              "path": [
+                "api",
+                "v1",
+                "klanten_json"
+              ]
+            }
+          },
+          "response": []
+        }
+      ],
+      "event": [
+        {
+          "listen": "prerequest",
+          "script": {
+            "id": "99ece68a-6750-4b02-9747-2db84bd25b03",
+            "type": "text/javascript",
+            "exec": [
+              ""
+            ]
+          }
+        },
+        {
+          "listen": "test",
+          "script": {
+            "id": "0796717a-4449-408e-8a10-08d0a88abb95",
+            "type": "text/javascript",
+            "exec": [
+              ""
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "2. tblBestemming",
+      "item": [
+        {
+          "name": "1. GET Bestemmingen",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Content-Type",
+                "name": "Content-Type",
+                "value": "application/json",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": ""
+            },
+            "url": {
+              "raw": "http://127.0.0.1:5000/api/v1/bestemmingen",
+              "protocol": "http",
+              "host": [
+                "127",
+                "0",
+                "0",
+                "1"
+              ],
+              "port": "5000",
+              "path": [
+                "api",
+                "v1",
+                "bestemmingen"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "2. GET Bestemming",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Content-Type",
+                "name": "Content-Type",
+                "value": "application/json",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": ""
+            },
+            "url": {
+              "raw": "http://127.0.0.1:5000/api/v1/bestemmingen/527",
+              "protocol": "http",
+              "host": [
+                "127",
+                "0",
+                "0",
+                "1"
+              ],
+              "port": "5000",
+              "path": [
+                "api",
+                "v1",
+                "bestemmingen",
+                "527"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "3. Bestemming: POST",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "name": "Content-Type",
+                "type": "text",
+                "value": "application/x-www-form-urlencoded"
+              }
+            ],
+            "body": {
+              "mode": "urlencoded",
+              "urlencoded": [
+                {
+                  "key": "Afkorting",
+                  "value": "WEV",
+                  "type": "text"
+                },
+                {
+                  "key": "Land",
+                  "value": "België",
+                  "type": "text"
+                },
+                {
+                  "key": "TypeVlucht",
+                  "value": "2",
+                  "type": "text"
+                },
+                {
+                  "key": "Voluit",
+                  "value": "Wevelgem Airport",
+                  "type": "text"
+                }
+              ]
+            },
+            "url": {
+              "raw": "http://127.0.0.1:5000/api/v1/bestemmingen",
+              "protocol": "http",
+              "host": [
+                "127",
+                "0",
+                "0",
+                "1"
+              ],
+              "port": "5000",
+              "path": [
+                "api",
+                "v1",
+                "bestemmingen"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "4. Bestemming: PUT",
+          "request": {
+            "method": "PUT",
+            "header": [
+              {
+                "key": "Content-Type",
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "urlencoded",
+              "urlencoded": [
+                {
+                  "key": "Afkorting",
+                  "value": "WEV",
+                  "type": "text"
+                },
+                {
+                  "key": "Land",
+                  "value": "België",
+                  "type": "text"
+                },
+                {
+                  "key": "TypeVlucht",
+                  "value": "2",
+                  "type": "text"
+                },
+                {
+                  "key": "Voluit",
+                  "value": "Wevelgem Plage Airport",
+                  "type": "text"
+                }
+              ]
+            },
+            "url": {
+              "raw": "http://127.0.0.1:5000/api/v1/bestemmingen/554",
+              "protocol": "http",
+              "host": [
+                "127",
+                "0",
+                "0",
+                "1"
+              ],
+              "port": "5000",
+              "path": [
+                "api",
+                "v1",
+                "bestemmingen",
+                "554"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "5. Bestemming: DELETE",
+          "request": {
+            "method": "DELETE",
+            "header": [
+              {
+                "key": "Content-Type",
+                "name": "Content-Type",
+                "type": "text",
+                "value": "application/x-www-form-urlencoded"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": ""
+            },
+            "url": {
+              "raw": "http://127.0.0.1:5000/api/v1/bestemmingen/554",
+              "protocol": "http",
+              "host": [
+                "127",
+                "0",
+                "0",
+                "1"
+              ],
+              "port": "5000",
+              "path": [
+                "api",
+                "v1",
+                "bestemmingen",
+                "554"
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    }
+  ]
+}

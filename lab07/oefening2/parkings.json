@@ -1,0 +1,6801 @@
+{
+  "Sensoren": {
+    "Sensor": [
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101001",
+        "@Street": "Koning Albertstraat 66 (KOR)",
+        "@Lat": "50.82616043",
+        "@Long": "3.262057066",
+        "@Function": "P30",
+        "$": "00.0001.A61C"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101002",
+        "@Street": "Koning Albertstraat 66 (KOR)",
+        "@Lat": "50.82612228",
+        "@Long": "3.262126923",
+        "@Function": "P30",
+        "$": "00.0001.A597"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101003",
+        "@Street": "Koning Albertstraat 66 (KOR)",
+        "@Lat": "50.82605362",
+        "@Long": "3.262198925",
+        "@Function": "P30",
+        "$": "00.0001.A84F"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101004",
+        "@Street": "Koning Albertstraat 15 (KOR)",
+        "@Lat": "50.82599258",
+        "@Long": "3.262319088",
+        "@Function": "P30",
+        "$": "00.0001.FD90"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101005",
+        "@Street": "Koning Albertstraat 15 (KOR)",
+        "@Lat": "50.8259697",
+        "@Long": "3.262368202",
+        "@Function": "P30",
+        "$": "00.0001.A262"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101007",
+        "@Street": "Koning Albertstraat 94 (KOR)",
+        "@Lat": "50.82645035",
+        "@Long": "3.261584997",
+        "@Function": "P30",
+        "$": "00.0000.C21B"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101008",
+        "@Street": "Oude-Vestingsstraat 19 (KOR)",
+        "@Lat": "50.82663727",
+        "@Long": "3.261854887",
+        "@Function": "P30",
+        "$": "00.0001.A876"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101011",
+        "@Street": "Oude-Vestingsstraat 1 (KOR)",
+        "@Lat": "50.82641983",
+        "@Long": "3.263815165",
+        "@Function": "P30",
+        "$": "00.0001.A429"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101014",
+        "@Street": "Jan Palfijnstraat 4 (KOR)",
+        "@Lat": "50.82619476",
+        "@Long": "3.263715029",
+        "@Function": "P30",
+        "$": "00.0001.A7E4"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101015",
+        "@Street": "Jan Palfijnstraat 4 (KOR)",
+        "@Lat": "50.82622528",
+        "@Long": "3.26377511",
+        "@Function": "P30",
+        "$": "00.0001.A614"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101006",
+        "@Street": "Koning Albertstraat 98 (KOR)",
+        "@Lat": "50.82649612",
+        "@Long": "3.261523008",
+        "@Function": "P30",
+        "$": "00.0000.C20E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101009",
+        "@Street": "Oude-Vestingsstraat 19 (KOR)",
+        "@Lat": "50.82663727",
+        "@Long": "3.26199007",
+        "@Function": "P30",
+        "$": "00.0000.C204"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101010",
+        "@Street": "Oude-Vestingsstraat 17 (KOR)",
+        "@Lat": "50.82663727",
+        "@Long": "3.262098074",
+        "@Function": "P30",
+        "$": "00.0000.C218"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101012",
+        "@Street": "Jan Palfijnstraat 2 (KOR)",
+        "@Lat": "50.8263855",
+        "@Long": "3.263907671",
+        "@Function": "P30",
+        "$": "00.0001.AA36"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101013",
+        "@Street": "Jan Palfijnstraat 6 (KOR)",
+        "@Lat": "50.82616043",
+        "@Long": "3.263654947",
+        "@Function": "P30",
+        "$": "00.0001.A874"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101019",
+        "@Street": "Waterpoort 5 (KOR)",
+        "@Lat": "50.82650375",
+        "@Long": "3.264297962",
+        "@Function": "P30",
+        "$": "00.0001.5012"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101020",
+        "@Street": "Waterpoort 5 (KOR)",
+        "@Lat": "50.82653809",
+        "@Long": "3.264355898",
+        "@Function": "P30",
+        "$": "00.0001.5031"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101023",
+        "@Street": "Burgemeester Reynaertstraat 19 (KOR)",
+        "@Lat": "50.82517242",
+        "@Long": "3.265059948",
+        "@Function": "P30",
+        "$": "00.0001.A851"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101024",
+        "@Street": "Burgemeester Reynaertstraat 19 (KOR)",
+        "@Lat": "50.82520294",
+        "@Long": "3.265127897",
+        "@Function": "P30",
+        "$": "00.0001.5013"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101025",
+        "@Street": "Stationsplein 4 (KOR)",
+        "@Lat": "50.82520294",
+        "@Long": "3.264410019",
+        "@Function": "P30",
+        "$": "00.0000.C20C"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101026",
+        "@Street": "Stationsplein 4 (KOR)",
+        "@Lat": "50.82518005",
+        "@Long": "3.264533997",
+        "@Function": "P30",
+        "$": "00.0001.A801"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101088",
+        "@Street": "Stationsplein 4 (KOR)",
+        "@Lat": "50.82515335",
+        "@Long": "3.264633179",
+        "@Function": "P30",
+        "$": "00.0002.0855"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101035",
+        "@Street": "Koning Albertstraat 16 (KOR)",
+        "@Lat": "50.82561111",
+        "@Long": "3.263000011",
+        "@Function": "P30",
+        "$": "00.0001.4BB9"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "",
+        "@Street": "",
+        "@Lat": "",
+        "@Long": "",
+        "@Function": "",
+        "$": "00.0001.7EDE"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "",
+        "@Street": "",
+        "@Lat": "",
+        "@Long": "",
+        "@Function": "",
+        "$": "00.0001.7EE7"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101043",
+        "@Street": "Roeland Saverystraat 6 (KOR)",
+        "@Lat": "50.82664871",
+        "@Long": "3.260900974",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A843"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101044",
+        "@Street": "Louis Robbeplein 8 (KOR)",
+        "@Lat": "50.82652664",
+        "@Long": "3.260910034",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A879"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101045",
+        "@Street": "Roeland Saverystraat 1 (KOR)",
+        "@Lat": "50.82640839",
+        "@Long": "3.260916948",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A806"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101046",
+        "@Street": "Roeland Saverystraat 3 (KOR)",
+        "@Lat": "50.82629395",
+        "@Long": "3.260931015",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A303"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101047",
+        "@Street": "Roeland Saverystraat 5B (KOR)",
+        "@Lat": "50.82620239",
+        "@Long": "3.260936022",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A66C"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101048",
+        "@Street": "Roeland Saverystraat 5A (KOR)",
+        "@Lat": "50.82609558",
+        "@Long": "3.260941029",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A871"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101049",
+        "@Street": "Roeland Saverystraat 7A (KOR)",
+        "@Lat": "50.8259964",
+        "@Long": "3.260950089",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A889"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101050",
+        "@Street": "Roeland Saverystraat 28 (KOR)",
+        "@Lat": "50.82589722",
+        "@Long": "3.26095891",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A809"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101051",
+        "@Street": "Casinoplein 10 (KOR)",
+        "@Lat": "50.82555771",
+        "@Long": "3.262104034",
+        "@Function": "P30",
+        "$": "00.0001.A897"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101052",
+        "@Street": "Casinoplein 10 (KOR)",
+        "@Lat": "50.82558441",
+        "@Long": "3.262167931",
+        "@Function": "P30",
+        "$": "00.0001.A88B"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101053",
+        "@Street": "Stationsplein 3 (KOR)",
+        "@Lat": "50.82509995",
+        "@Long": "3.263957977",
+        "@Function": "P30",
+        "$": "00.0001.4B75"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101054",
+        "@Street": "Stationsplein 3 (KOR)",
+        "@Lat": "50.82512283",
+        "@Long": "3.264014959",
+        "@Function": "P30",
+        "$": "00.0001.A085"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101055",
+        "@Street": "Koning Albertstraat 1 (KOR)",
+        "@Lat": "50.82511139",
+        "@Long": "3.2636621",
+        "@Function": "P30",
+        "$": "00.0001.A420"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101056",
+        "@Street": "Koning Albertstraat 1 (KOR)",
+        "@Lat": "50.82515335",
+        "@Long": "3.263601065",
+        "@Function": "P30",
+        "$": "00.0001.A44F"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "",
+        "@Street": "",
+        "@Lat": "",
+        "@Long": "",
+        "@Function": "",
+        "$": "00.0001.7D26"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101058",
+        "@Street": "Koning Albertstraat 5 (KOR)",
+        "@Lat": "50.82522964",
+        "@Long": "3.263458014",
+        "@Function": "P30",
+        "$": "00.0001.A25D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101059",
+        "@Street": "Stationsplein 2 (KOR)",
+        "@Lat": "50.82478714",
+        "@Long": "3.263703108",
+        "@Function": "P30",
+        "$": "00.0001.AA2D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101060",
+        "@Street": "Stationsplein 2 (KOR)",
+        "@Lat": "50.82478333",
+        "@Long": "3.263617992",
+        "@Function": "P30",
+        "$": "00.0001.AA28"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101061",
+        "@Street": "Stationsplein 2 (KOR)",
+        "@Lat": "50.82478333",
+        "@Long": "3.263508081",
+        "@Function": "P30",
+        "$": "00.0001.AA39"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101062",
+        "@Street": "Stationsplein 2 (KOR)",
+        "@Lat": "50.82477951",
+        "@Long": "3.263402939",
+        "@Function": "P30",
+        "$": "00.0001.AA3B"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101063",
+        "@Street": "Stationsplein 2 (KOR)",
+        "@Lat": "50.82476425",
+        "@Long": "3.263282776",
+        "@Function": "P30",
+        "$": "00.0001.AA31"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101064",
+        "@Street": "Tolstraat 5 (KOR)",
+        "@Lat": "50.82472229",
+        "@Long": "3.263196945",
+        "@Function": "P30",
+        "$": "00.0001.AA38"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101065",
+        "@Street": "Stationsplein 6 (KOR)",
+        "@Lat": "50.82487869",
+        "@Long": "3.265044928",
+        "@Function": "P30",
+        "$": "00.0001.AA3C"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101066",
+        "@Street": "Stationsplein 6 (KOR)",
+        "@Lat": "50.82487869",
+        "@Long": "3.265117884",
+        "@Function": "P30",
+        "$": "00.0002.0842"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101067",
+        "@Street": "Waterpoort 1 (KOR)",
+        "@Lat": "50.82648468",
+        "@Long": "3.264395952",
+        "@Function": "P30",
+        "$": "00.0001.FD83"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101068",
+        "@Street": "Waterpoort 1 (KOR)",
+        "@Lat": "50.82645416",
+        "@Long": "3.264338017",
+        "@Function": "P30",
+        "$": "00.0001.FA1A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101069",
+        "@Street": "Waterpoort 5 (KOR)",
+        "@Lat": "50.82641983",
+        "@Long": "3.264278889",
+        "@Function": "P30",
+        "$": "00.0001.FD86"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101070",
+        "@Street": "Casinoplein 9 (KOR)",
+        "@Lat": "50.82536316",
+        "@Long": "3.261458635",
+        "@Function": "P30",
+        "$": "00.0001.C2CE"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101071",
+        "@Street": "Casinoplein 9 (KOR)",
+        "@Lat": "50.82540131",
+        "@Long": "3.261402607",
+        "@Function": "P30",
+        "$": "00.0001.C1DD"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101072",
+        "@Street": "Casinoplein 9 (KOR)",
+        "@Lat": "50.82544327",
+        "@Long": "3.261353731",
+        "@Function": "P30",
+        "$": "00.0002.1FB5"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101073",
+        "@Street": "Casinoplein 9 (KOR)",
+        "@Lat": "50.82548141",
+        "@Long": "3.26130271",
+        "@Function": "P30",
+        "$": "00.0002.1FAF"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101074",
+        "@Street": "Conservatoriumplein 23 (KOR)",
+        "@Lat": "50.82551575",
+        "@Long": "3.261253357",
+        "@Function": "P30",
+        "$": "00.0002.0538"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101075",
+        "@Street": "Conservatoriumplein 23 (KOR)",
+        "@Lat": "50.82555771",
+        "@Long": "3.261201382",
+        "@Function": "P30",
+        "$": "00.0002.05D5"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101076",
+        "@Street": "Conservatoriumplein 23 (KOR)",
+        "@Lat": "50.82559967",
+        "@Long": "3.261151314",
+        "@Function": "P30",
+        "$": "00.0002.1FB9"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101077",
+        "@Street": "Conservatoriumplein 23 (KOR)",
+        "@Lat": "50.82563782",
+        "@Long": "3.261101723",
+        "@Function": "P30",
+        "$": "00.0002.052C"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101078",
+        "@Street": "Conservatoriumplein 23 (KOR)",
+        "@Lat": "50.82567596",
+        "@Long": "3.261052608",
+        "@Function": "P30",
+        "$": "00.0002.1FA4"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101079",
+        "@Street": "Casinoplein 9 (KOR)",
+        "@Lat": "50.82543564",
+        "@Long": "3.261859417",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C1D6"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101080",
+        "@Street": "Casinoplein 9 (KOR)",
+        "@Lat": "50.82546616",
+        "@Long": "3.261917353",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0505"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101081",
+        "@Street": "Casinoplein 10 (KOR)",
+        "@Lat": "50.82550049",
+        "@Long": "3.261980057",
+        "@Function": "BEWONERS",
+        "$": "00.0002.04C2"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101082",
+        "@Street": "Oude-Vestingsstraat 13 (KOR)",
+        "@Lat": "50.82665634",
+        "@Long": "3.262638569",
+        "@Function": "BEWONERS",
+        "$": "00.0002.1F83"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101083",
+        "@Street": "Oude-Vestingsstraat 13 (KOR)",
+        "@Lat": "50.82665634",
+        "@Long": "3.262569666",
+        "@Function": "BEWONERS",
+        "$": "00.0002.05A5"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101084",
+        "@Street": "Oude-Vestingsstraat 13 (KOR)",
+        "@Lat": "50.82665253",
+        "@Long": "3.262433529",
+        "@Function": "BEWONERS",
+        "$": "00.0002.1F6F"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101085",
+        "@Street": "Oude-Vestingsstraat 15 (KOR)",
+        "@Lat": "50.82665253",
+        "@Long": "3.262357712",
+        "@Function": "BEWONERS",
+        "$": "00.0002.047F"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101086",
+        "@Street": "Oude-Vestingsstraat 17 (KOR)",
+        "@Lat": "50.82664871",
+        "@Long": "3.262252092",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0472"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101087",
+        "@Street": "Oude-Vestingsstraat 17 (KOR)",
+        "@Lat": "50.82664871",
+        "@Long": "3.262181997",
+        "@Function": "BEWONERS",
+        "$": "00.0002.046B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101089",
+        "@Street": "Oude-Vestingsstraat 17 (KOR)",
+        "@Lat": "50.82667038",
+        "@Long": "3.263172805",
+        "@Function": "P30",
+        "$": "00.0002.2CFF"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101090",
+        "@Street": "Oude-Vestingsstraat 17 (KOR)",
+        "@Lat": "50.82663904",
+        "@Long": "3.263306916",
+        "@Function": "P30",
+        "$": "00.0002.2C91"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101091",
+        "@Street": "Oude-Vestingsstraat 17 (KOR)",
+        "@Lat": "50.82654585",
+        "@Long": "3.263516128",
+        "@Function": "P30",
+        "$": "00.0002.0A1D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101092",
+        "@Street": "Oude-Vestingsstraat 17 (KOR)",
+        "@Lat": "50.82649841",
+        "@Long": "3.263620734",
+        "@Function": "P30",
+        "$": "00.0002.0A10"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101093",
+        "@Street": "Oude-Vestingsstraat 17 (KOR)",
+        "@Lat": "50.82645606",
+        "@Long": "3.26372534",
+        "@Function": "P30",
+        "$": "00.0002.2052"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101094",
+        "@Street": "Oude-Vestingsstraat 17 (KOR)",
+        "@Lat": "50.82654331",
+        "@Long": "3.263650239",
+        "@Function": "BEWONERS",
+        "$": "00.0002.203C"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101095",
+        "@Street": "Oude-Vestingsstraat 17 (KOR)",
+        "@Lat": "50.82646561",
+        "@Long": "3.263839245",
+        "@Function": "BEWONERS",
+        "$": "00.0002.2D05"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101096",
+        "@Street": "Oude-Vestingsstraat 17 (KOR)",
+        "@Lat": "50.82642746",
+        "@Long": "3.263939857",
+        "@Function": "BEWONERS",
+        "$": "00.0002.2CD5"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104001",
+        "@Street": "Hendrik Consciencestraat 27 (KOR)",
+        "@Lat": "50.82584763",
+        "@Long": "3.258808851",
+        "@Function": "P30",
+        "$": "00.0000.BE31"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "104002",
+        "@Street": "Hendrik Consciencestraat 27 (KOR)",
+        "@Lat": "50.82589722",
+        "@Long": "3.258908987",
+        "@Function": "P30",
+        "$": "00.0000.C0E6"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104003",
+        "@Street": "Zandstraat 1A (KOR)",
+        "@Lat": "50.82556534",
+        "@Long": "3.258526087",
+        "@Function": "P30",
+        "$": "00.0001.A598"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104004",
+        "@Street": "Zandstraat 1A (KOR)",
+        "@Lat": "50.82552719",
+        "@Long": "3.258557081",
+        "@Function": "P30",
+        "$": "00.0001.5023"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104006",
+        "@Street": "Beheerstraat 1 (KOR)",
+        "@Lat": "50.8259697",
+        "@Long": "3.258299112",
+        "@Function": "P30",
+        "$": "00.0001.2853"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104008",
+        "@Street": "Beheerstraat 62 (KOR)",
+        "@Lat": "50.82821274",
+        "@Long": "3.257084608",
+        "@Function": "P30",
+        "$": "00.0001.A58F"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104009",
+        "@Street": "Beheerstraat 56 (KOR)",
+        "@Lat": "50.82814407",
+        "@Long": "3.257119179",
+        "@Function": "P30",
+        "$": "00.0000.C21D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104010",
+        "@Street": "Beheerstraat 54 (KOR)",
+        "@Lat": "50.82800674",
+        "@Long": "3.257188797",
+        "@Function": "P30",
+        "$": "00.0000.C13E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104011",
+        "@Street": "Beheerstraat 50 (KOR)",
+        "@Lat": "50.82794571",
+        "@Long": "3.257227421",
+        "@Function": "P30",
+        "$": "00.0000.C0E7"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104012",
+        "@Street": "Burgemeester Nolfstraat 14 (KOR)",
+        "@Lat": "50.82722473",
+        "@Long": "3.258160114",
+        "@Function": "P30",
+        "$": "00.0001.A877"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104013",
+        "@Street": "Burgemeester Nolfstraat 14 (KOR)",
+        "@Lat": "50.82725525",
+        "@Long": "3.25820303",
+        "@Function": "P30",
+        "$": "00.0001.5034"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104014",
+        "@Street": "Magdalenastraat 19 (KOR)",
+        "@Lat": "50.82512283",
+        "@Long": "3.25702405",
+        "@Function": "P30",
+        "$": "00.0001.FA28"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "104015",
+        "@Street": "Magdalenastraat 19 (KOR)",
+        "@Lat": "50.82515717",
+        "@Long": "3.257111073",
+        "@Function": "P30",
+        "$": "00.0001.FA23"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104016",
+        "@Street": "Zandstraat 28 (KOR)",
+        "@Lat": "50.82453156",
+        "@Long": "3.258836985",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A862"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "104017",
+        "@Street": "Zandstraat 28 (KOR)",
+        "@Lat": "50.82459259",
+        "@Long": "3.258836985",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A89D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104018",
+        "@Street": "Zandstraat 28 (KOR)",
+        "@Lat": "50.82465363",
+        "@Long": "3.258838892",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A89A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104019",
+        "@Street": "Zandstraat 28 (KOR)",
+        "@Lat": "50.82470703",
+        "@Long": "3.258835077",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A2F6"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104020",
+        "@Street": "Zandstraat 28 (KOR)",
+        "@Lat": "50.82475281",
+        "@Long": "3.258836031",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A89B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104021",
+        "@Street": "Zandstraat 28 (KOR)",
+        "@Lat": "50.82479095",
+        "@Long": "3.258827925",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A8A1"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104022",
+        "@Street": "Zandstraat 28 (KOR)",
+        "@Lat": "50.82484055",
+        "@Long": "3.258817911",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A8A0"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "104023",
+        "@Street": "Zandstraat 26 (KOR)",
+        "@Lat": "50.82489014",
+        "@Long": "3.258810043",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A7DD"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104024",
+        "@Street": "Zandstraat 26 (KOR)",
+        "@Lat": "50.82493973",
+        "@Long": "3.258794069",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A7E9"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104025",
+        "@Street": "Zandstraat 24 (KOR)",
+        "@Lat": "50.8249855",
+        "@Long": "3.258774042",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A5D8"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "104026",
+        "@Street": "Hendrik Consciencestraat 15 (KOR)",
+        "@Lat": "50.82616806",
+        "@Long": "3.259446621",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C29D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104027",
+        "@Street": "Hendrik Consciencestraat 15 (KOR)",
+        "@Lat": "50.82614136",
+        "@Long": "3.259392262",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C1DC"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "104028",
+        "@Street": "Hendrik Consciencestraat 19 (KOR)",
+        "@Lat": "50.82611084",
+        "@Long": "3.259329557",
+        "@Function": "BEWONERS",
+        "$": "00.0002.1FC9"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "104029",
+        "@Street": "Hendrik Consciencestraat 19 (KOR)",
+        "@Lat": "50.82608795",
+        "@Long": "3.259289265",
+        "@Function": "BEWONERS",
+        "$": "00.0002.1FB2"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "104030",
+        "@Street": "Hendrik Consciencestraat 19 (KOR)",
+        "@Lat": "50.82606506",
+        "@Long": "3.259239197",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0522"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "104032",
+        "@Street": "Burgemeester Nolfstraat 20 (KOR)",
+        "@Lat": "50.82716751",
+        "@Long": "3.257957697",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C1D0"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "104033",
+        "@Street": "Burgemeester Nolfstraat 18 (KOR)",
+        "@Lat": "50.82722092",
+        "@Long": "3.258024693",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C1C8"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "104034",
+        "@Street": "Burgemeester Nolfstraat 14 (KOR)",
+        "@Lat": "50.82731247",
+        "@Long": "3.258176565",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C2D7"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104035",
+        "@Street": "Burgemeester Nolfstraat 14 (KOR)",
+        "@Lat": "50.82735443",
+        "@Long": "3.258230925",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C2CC"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "104036",
+        "@Street": "Burgemeester Nolfstraat 12 (KOR)",
+        "@Lat": "50.82743835",
+        "@Long": "3.258345366",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C1D2"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "104037",
+        "@Street": "Edmond De Praterestraat 1 (KOR)",
+        "@Lat": "50.82750702",
+        "@Long": "3.258450508",
+        "@Function": "BEWONERS",
+        "$": "00.0002.04B8"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104038",
+        "@Street": "Edmond De Praterestraat 1 (KOR)",
+        "@Lat": "50.82755661",
+        "@Long": "3.258518934",
+        "@Function": "BEWONERS",
+        "$": "00.0002.046D"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "105001",
+        "@Street": "Dolfijnkaai 2 (KOR)",
+        "@Lat": "50.82939529",
+        "@Long": "3.264045954",
+        "@Function": "P30",
+        "$": "00.0002.2CC7"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "105002",
+        "@Street": "Dolfijnkaai 4 (KOR)",
+        "@Lat": "50.82939148",
+        "@Long": "3.263982058",
+        "@Function": "Disabled",
+        "$": "00.0000.C366"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "105003",
+        "@Street": "Dolfijnkaai 5 (KOR)",
+        "@Lat": "50.82939529",
+        "@Long": "3.263904095",
+        "@Function": "P30",
+        "$": "00.0000.C35A"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "105004",
+        "@Street": "Dolfijnkaai 6 (KOR)",
+        "@Lat": "50.82939529",
+        "@Long": "3.263788939",
+        "@Function": "P30",
+        "$": "00.0000.C33C"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "105005",
+        "@Street": "Dolfijnkaai 7 (KOR)",
+        "@Lat": "50.82938766",
+        "@Long": "3.263700008",
+        "@Function": "P30",
+        "$": "00.0001.A7EF"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "105006",
+        "@Street": "Dolfijnkaai 8 (KOR)",
+        "@Lat": "50.82938385",
+        "@Long": "3.263586998",
+        "@Function": "P30",
+        "$": "00.0001.4FF8"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "105007",
+        "@Street": "Rijselsestraat 21 (KOR)",
+        "@Lat": "50.8276329",
+        "@Long": "3.263675928",
+        "@Function": "P30",
+        "$": "00.0000.C363"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "105008",
+        "@Street": "Rijselsestraat 21 (KOR)",
+        "@Lat": "50.82767105",
+        "@Long": "3.263772011",
+        "@Function": "P30",
+        "$": "00.0000.C370"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "",
+        "@Street": "",
+        "@Lat": "",
+        "@Long": "",
+        "@Function": "",
+        "$": "00.0001.1C99"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "",
+        "@Street": "",
+        "@Lat": "",
+        "@Long": "",
+        "@Function": "",
+        "$": "00.0001.246B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105011",
+        "@Street": "Rijselsestraat 9 (KOR)",
+        "@Lat": "50.82772064",
+        "@Long": "3.264022112",
+        "@Function": "P30",
+        "$": "00.0001.A56B"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "105012",
+        "@Street": "Rijselsestraat 9 (KOR)",
+        "@Lat": "50.8277359",
+        "@Long": "3.264100075",
+        "@Function": "P30",
+        "$": "00.0002.0734"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105013",
+        "@Street": "Rijselsestraat 9 (KOR)",
+        "@Lat": "50.82775879",
+        "@Long": "3.264187098",
+        "@Function": "P30",
+        "$": "00.0002.0890"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "",
+        "@Street": "",
+        "@Lat": "",
+        "@Long": "",
+        "@Function": "",
+        "$": "00.0000.C329"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105036",
+        "@Street": "Rijselsestraat 7 (KOR)",
+        "@Lat": "50.82778168",
+        "@Long": "3.264280081",
+        "@Function": "P30",
+        "$": "00.0002.0868"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "105039",
+        "@Street": "Rijselsestraat 23 (KOR)",
+        "@Lat": "50.82763672",
+        "@Long": "3.263637066",
+        "@Function": "P30",
+        "$": "00.0001.5007"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "105019",
+        "@Street": "Leiestraat 9 (KOR)",
+        "@Lat": "50.82832336",
+        "@Long": "3.265013933",
+        "@Function": "P30",
+        "$": "00.0001.A57D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105020",
+        "@Street": "Leiestraat 9 (KOR)",
+        "@Lat": "50.82835388",
+        "@Long": "3.264991045",
+        "@Function": "P30",
+        "$": "00.0001.5042"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105021",
+        "@Street": "Leiestraat 16 (KOR)",
+        "@Lat": "50.8283844",
+        "@Long": "3.264961004",
+        "@Function": "P30",
+        "$": "00.0001.500A"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "105022",
+        "@Street": "Leiestraat 16 (KOR)",
+        "@Lat": "50.82842636",
+        "@Long": "3.264923096",
+        "@Function": "P30",
+        "$": "00.0001.C25E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "105024",
+        "@Street": "O.-L.-Vrouwestraat 5 (KOR)",
+        "@Lat": "50.82831955",
+        "@Long": "3.265718937",
+        "@Function": "P30",
+        "$": "00.0001.A5A3"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105025",
+        "@Street": "O.-L.-Vrouwestraat 7 (KOR)",
+        "@Lat": "50.82837296",
+        "@Long": "3.26573205",
+        "@Function": "P30",
+        "$": "00.0000.C2CC"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105027",
+        "@Street": "O.-L.-Vrouwestraat 26 (KOR)",
+        "@Lat": "50.8288269",
+        "@Long": "3.265892982",
+        "@Function": "P30",
+        "$": "00.0001.A591"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105044",
+        "@Street": "O.-L.-Vrouwestraat 19 (KOR)",
+        "@Lat": "50.82878876",
+        "@Long": "3.265872955",
+        "@Function": "P30",
+        "$": "00.0000.C316"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105045",
+        "@Street": "O.-L.-Vrouwestraat 19 (KOR)",
+        "@Lat": "50.8287468",
+        "@Long": "3.265853882",
+        "@Function": "P30",
+        "$": "00.0001.A26D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105029",
+        "@Street": "Budastraat 10 (KOR)",
+        "@Lat": "50.83010101",
+        "@Long": "3.264039993",
+        "@Function": "P30",
+        "$": "00.0000.C330"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105030",
+        "@Street": "Budastraat 8 (KOR)",
+        "@Lat": "50.83005905",
+        "@Long": "3.264110088",
+        "@Function": "P30",
+        "$": "00.0001.A8A2"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105031",
+        "@Street": "Budastraat 8 (KOR)",
+        "@Lat": "50.83000946",
+        "@Long": "3.264179945",
+        "@Function": "P30",
+        "$": "00.0001.A663"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105032",
+        "@Street": "Dolfijnkaai 5 (KOR)",
+        "@Lat": "50.82949066",
+        "@Long": "3.263910055",
+        "@Function": "LAADPALEN",
+        "$": "00.0000.C339"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105033",
+        "@Street": "Dolfijnkaai 4 (KOR)",
+        "@Lat": "50.82949066",
+        "@Long": "3.263950109",
+        "@Function": "LAADPALEN",
+        "$": "00.0000.C2F9"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105034",
+        "@Street": "Dolfijnkaai 3 (KOR)",
+        "@Lat": "50.82949066",
+        "@Long": "3.263999939",
+        "@Function": "LAADPALEN",
+        "$": "00.0000.D158"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "105035",
+        "@Street": "Dolfijnkaai 2 (KOR)",
+        "@Lat": "50.82949066",
+        "@Long": "3.264039993",
+        "@Function": "LAADPALEN",
+        "$": "00.0000.C337"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "105037",
+        "@Street": "Budastraat 26 (KOR)",
+        "@Lat": "50.83049774",
+        "@Long": "3.263556957",
+        "@Function": "P30",
+        "$": "00.0001.287F"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105038",
+        "@Street": "Budastraat 26 (KOR)",
+        "@Lat": "50.83052826",
+        "@Long": "3.263607025",
+        "@Function": "P30",
+        "$": "00.0001.2886"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "105046",
+        "@Street": "Budastraat 1C (KOR)",
+        "@Lat": "50.82972336",
+        "@Long": "3.26387763",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C2B2"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "105047",
+        "@Street": "Budastraat 1C (KOR)",
+        "@Lat": "50.82971191",
+        "@Long": "3.263797998",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C1CC"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "105048",
+        "@Street": "Reepkaai 1F (KOR)",
+        "@Lat": "50.82971191",
+        "@Long": "3.263713121",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C1D4"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105049",
+        "@Street": "Reepkaai 1F (KOR)",
+        "@Lat": "50.82971191",
+        "@Long": "3.263608456",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C28D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105050",
+        "@Street": "Reepkaai 1 (KOR)",
+        "@Lat": "50.8297081",
+        "@Long": "3.263515234",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C1D9"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "105051",
+        "@Street": "Reepkaai 1 (KOR)",
+        "@Lat": "50.8297081",
+        "@Long": "3.263417482",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C2E5"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "105052",
+        "@Street": "Reepkaai 2 (KOR)",
+        "@Lat": "50.8297081",
+        "@Long": "3.263316154",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C299"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "105053",
+        "@Street": "Reepkaai 2 (KOR)",
+        "@Lat": "50.82970428",
+        "@Long": "3.263226032",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C28E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106007",
+        "@Street": "Minister Tacklaan 55 (KOR)",
+        "@Lat": "50.82356262",
+        "@Long": "3.263099909",
+        "@Function": "P30",
+        "$": "00.0001.5008"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106008",
+        "@Street": "Minister Tacklaan 57 (KOR)",
+        "@Lat": "50.82355118",
+        "@Long": "3.263005972",
+        "@Function": "P30",
+        "$": "00.0001.A8A6"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106009",
+        "@Street": "Minister Tacklaan 59 (KOR)",
+        "@Lat": "50.82355118",
+        "@Long": "3.262911081",
+        "@Function": "P30",
+        "$": "00.0000.C30B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106010",
+        "@Street": "Minister Tacklaan 63 (KOR)",
+        "@Lat": "50.82353592",
+        "@Long": "3.262785912",
+        "@Function": "P30",
+        "$": "00.0001.A89C"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106011",
+        "@Street": "Minister Tacklaan 75 (KOR)",
+        "@Lat": "50.82349777",
+        "@Long": "3.262240887",
+        "@Function": "P30",
+        "$": "00.0000.C319"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106012",
+        "@Street": "Minister Tacklaan 19B (KOR)",
+        "@Lat": "50.82381058",
+        "@Long": "3.266030073",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A626"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106013",
+        "@Street": "Minister Tacklaan 19B (KOR)",
+        "@Lat": "50.82381821",
+        "@Long": "3.266083956",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A300"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "106014",
+        "@Street": "Minister Tacklaan 19B (KOR)",
+        "@Lat": "50.82382965",
+        "@Long": "3.26613903",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A884"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106015",
+        "@Street": "Minister Tacklaan 19A (KOR)",
+        "@Lat": "50.82386017",
+        "@Long": "3.266274929",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A870"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106016",
+        "@Street": "Minister Tacklaan 19 (KOR)",
+        "@Lat": "50.82386398",
+        "@Long": "3.26631093",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A59E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106017",
+        "@Street": "Minister Tacklaan 19 (KOR)",
+        "@Lat": "50.8238678",
+        "@Long": "3.266354084",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A580"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106018",
+        "@Street": "Minister Tacklaan 19 (KOR)",
+        "@Lat": "50.82387161",
+        "@Long": "3.266396999",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C2C6"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106019",
+        "@Street": "Minister Tacklaan 19 (KOR)",
+        "@Lat": "50.82387161",
+        "@Long": "3.266433001",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A301"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "106033",
+        "@Street": "Minister Tacklaan 19A (KOR)",
+        "@Lat": "50.82385635",
+        "@Long": "3.266241074",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0747"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "106034",
+        "@Street": "Minister Tacklaan 19A (KOR)",
+        "@Lat": "50.82384872",
+        "@Long": "3.266201973",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0886"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106035",
+        "@Street": "Minister Tacklaan 19B (KOR)",
+        "@Lat": "50.82384109",
+        "@Long": "3.266170979",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0865"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106021",
+        "@Street": "Minister Tacklaan 73 (KOR)",
+        "@Lat": "50.82366562",
+        "@Long": "3.262415886",
+        "@Function": "P30",
+        "$": "00.0001.AA3A"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "106022",
+        "@Street": "Minister Tacklaan 71 (KOR)",
+        "@Lat": "50.82366943",
+        "@Long": "3.262485981",
+        "@Function": "P30",
+        "$": "00.0001.AA32"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106023",
+        "@Street": "Minister Tacklaan 69 (KOR)",
+        "@Lat": "50.82367325",
+        "@Long": "3.262564898",
+        "@Function": "P30",
+        "$": "00.0001.AA27"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "106024",
+        "@Street": "Minister Tacklaan 67 (KOR)",
+        "@Lat": "50.82368088",
+        "@Long": "3.262644053",
+        "@Function": "P30",
+        "$": "00.0001.AA37"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106025",
+        "@Street": "Minister Tacklaan 63 (KOR)",
+        "@Lat": "50.82368469",
+        "@Long": "3.262718916",
+        "@Function": "P30",
+        "$": "00.0001.AA35"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "106026",
+        "@Street": "Minister Tacklaan 87 (KOR)",
+        "@Lat": "50.823452",
+        "@Long": "3.261415958",
+        "@Function": "BEWONERS",
+        "$": "00.0002.04B9"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106027",
+        "@Street": "Minister Tacklaan 87 (KOR)",
+        "@Lat": "50.82344818",
+        "@Long": "3.261332035",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0476"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106028",
+        "@Street": "Minister Tacklaan 91 (KOR)",
+        "@Lat": "50.82343674",
+        "@Long": "3.261176109",
+        "@Function": "BEWONERS",
+        "$": "00.0002.05CF"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106029",
+        "@Street": "Minister Tacklaan 93 (KOR)",
+        "@Lat": "50.82342148",
+        "@Long": "3.260975122",
+        "@Function": "BEWONERS",
+        "$": "00.0002.04C3"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106030",
+        "@Street": "Minister Tacklaan 93 (KOR)",
+        "@Lat": "50.82341766",
+        "@Long": "3.260913134",
+        "@Function": "BEWONERS",
+        "$": "00.0002.046C"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "106031",
+        "@Street": "Minister Tacklaan 93 (KOR)",
+        "@Lat": "50.82341385",
+        "@Long": "3.260830164",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0483"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "106032",
+        "@Street": "Minister Tacklaan 93 (KOR)",
+        "@Lat": "50.82341003",
+        "@Long": "3.260748863",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0469"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "112001",
+        "@Street": "Mellestraat 18 (HEU)",
+        "@Lat": "50.8452034",
+        "@Long": "3.232364893",
+        "@Function": "P30",
+        "$": "00.0001.A61D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112002",
+        "@Street": "Mellestraat 18 (HEU)",
+        "@Lat": "50.84515381",
+        "@Long": "3.232409954",
+        "@Function": "P30",
+        "$": "00.0001.A2F2"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112003",
+        "@Street": "Mellestraat 18 (HEU)",
+        "@Lat": "50.84511948",
+        "@Long": "3.232445955",
+        "@Function": "P30",
+        "$": "00.0001.A7E3"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112004",
+        "@Street": "Mellestraat 18 (HEU)",
+        "@Lat": "50.84508514",
+        "@Long": "3.232469082",
+        "@Function": "P30",
+        "$": "00.0001.A2F8"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "112005",
+        "@Street": "Heulsekasteelstraat 2 (HEU)",
+        "@Lat": "50.84424591",
+        "@Long": "3.231384993",
+        "@Function": "P30",
+        "$": "00.0002.084B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112006",
+        "@Street": "Heulsekasteelstraat 17 (HEU)",
+        "@Lat": "50.84423065",
+        "@Long": "3.231450081",
+        "@Function": "P30",
+        "$": "00.0002.085C"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112007",
+        "@Street": "Lagaeplein 10 (HEU)",
+        "@Lat": "50.84459686",
+        "@Long": "3.235464096",
+        "@Function": "P30",
+        "$": "00.0001.C279"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112008",
+        "@Street": "Lagaeplein 10 (HEU)",
+        "@Lat": "50.84455872",
+        "@Long": "3.235439062",
+        "@Function": "P30",
+        "$": "00.0001.C27A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112009",
+        "@Street": "Lagaeplein 10 (HEU)",
+        "@Lat": "50.84452057",
+        "@Long": "3.235409975",
+        "@Function": "P30",
+        "$": "00.0002.1EAE"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112012",
+        "@Street": "Kortrijksestraat 19 (HEU)",
+        "@Lat": "50.84236526",
+        "@Long": "3.234899998",
+        "@Function": "P30",
+        "$": "00.0002.2CA1"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "112013",
+        "@Street": "Kortrijksestraat 23 (HEU)",
+        "@Lat": "50.84229279",
+        "@Long": "3.234899998",
+        "@Function": "P30",
+        "$": "00.0002.05BC"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "112014",
+        "@Street": "Kortrijksestraat 23 (HEU)",
+        "@Lat": "50.84223938",
+        "@Long": "3.234899998",
+        "@Function": "P30",
+        "$": "00.0001.C251"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "112015",
+        "@Street": "Kortrijksestraat 25 (HEU)",
+        "@Lat": "50.84215927",
+        "@Long": "3.234899998",
+        "@Function": "P30",
+        "$": "00.0001.C257"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112016",
+        "@Street": "Kortrijksestraat 25 (HEU)",
+        "@Lat": "50.84211349",
+        "@Long": "3.234899998",
+        "@Function": "P30",
+        "$": "00.0001.C2D6"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112017",
+        "@Street": "Kortrijksestraat 22 (HEU)",
+        "@Lat": "50.84170151",
+        "@Long": "3.234819889",
+        "@Function": "P30",
+        "$": "00.0001.C29E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112018",
+        "@Street": "Kortrijksestraat 24 (HEU)",
+        "@Lat": "50.84162903",
+        "@Long": "3.234819889",
+        "@Function": "P30",
+        "$": "00.0001.C28F"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112019",
+        "@Street": "Kortrijksestraat 38 (HEU)",
+        "@Lat": "50.84112549",
+        "@Long": "3.234865189",
+        "@Function": "P30",
+        "$": "00.0002.054A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112020",
+        "@Street": "Kortrijksestraat 38 (HEU)",
+        "@Lat": "50.84106445",
+        "@Long": "3.234870672",
+        "@Function": "P30",
+        "$": "00.0002.0566"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "112021",
+        "@Street": "Schoolstraat 1 (HEU)",
+        "@Lat": "50.8405838",
+        "@Long": "3.234627008",
+        "@Function": "P30",
+        "$": "00.0001.C267"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112022",
+        "@Street": "Schoolstraat 1 (HEU)",
+        "@Lat": "50.84056091",
+        "@Long": "3.234560013",
+        "@Function": "P30",
+        "$": "00.0001.C275"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112023",
+        "@Street": "Kortrijksestraat 44 (HEU)",
+        "@Lat": "50.84025574",
+        "@Long": "3.235203028",
+        "@Function": "P30",
+        "$": "00.0001.C2D9"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112024",
+        "@Street": "Kortrijksestraat 46 (HEU)",
+        "@Lat": "50.84020615",
+        "@Long": "3.235235929",
+        "@Function": "P30",
+        "$": "00.0001.C28B"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "112025",
+        "@Street": "Kortrijksestraat 46 (HEU)",
+        "@Lat": "50.840168",
+        "@Long": "3.235263109",
+        "@Function": "P30",
+        "$": "00.0001.C286"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "",
+        "@Street": "",
+        "@Lat": "",
+        "@Long": "",
+        "@Function": "",
+        "$": "00.0000.C756"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "",
+        "@Street": "",
+        "@Lat": "",
+        "@Long": "",
+        "@Function": "",
+        "$": "00.0000.C77A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112028",
+        "@Street": "Heuleplaats 24 (HEU)",
+        "@Lat": "50.84318542",
+        "@Long": "3.235181093",
+        "@Function": "P30",
+        "$": "00.0001.C26E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112029",
+        "@Street": "Stijn Streuvelslaan 2 (HEU)",
+        "@Lat": "50.84315491",
+        "@Long": "3.235222101",
+        "@Function": "P30",
+        "$": "00.0001.C27E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112041",
+        "@Street": "Zeger van Heulestraat 2 (HEU)",
+        "@Lat": "50.84360123",
+        "@Long": "3.235654116",
+        "@Function": "P30",
+        "$": "00.0001.C291"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "112042",
+        "@Street": "Heuleplaats 34 (HEU)",
+        "@Lat": "50.84351349",
+        "@Long": "3.235449076",
+        "@Function": "P30",
+        "$": "00.0001.C264"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112043",
+        "@Street": "Heuleplaats 34 (HEU)",
+        "@Lat": "50.8434906",
+        "@Long": "3.235408068",
+        "@Function": "P30",
+        "$": "00.0001.C262"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112044",
+        "@Street": "Heuleplaats 34 (HEU)",
+        "@Lat": "50.84347153",
+        "@Long": "3.235368967",
+        "@Function": "P30",
+        "$": "00.0001.C258"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112045",
+        "@Street": "Heuleplaats 20 (HEU)",
+        "@Lat": "50.84322357",
+        "@Long": "3.234973907",
+        "@Function": "P30",
+        "$": "00.0001.C255"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112046",
+        "@Street": "Heuleplaats 20 (HEU)",
+        "@Lat": "50.84320068",
+        "@Long": "3.234924078",
+        "@Function": "P30",
+        "$": "00.0001.C270"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "112034",
+        "@Street": "Peperstraat 6 (HEU)",
+        "@Lat": "50.84276962",
+        "@Long": "3.234524965",
+        "@Function": "P30",
+        "$": "00.0002.1F85"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "112035",
+        "@Street": "Peperstraat 6 (HEU)",
+        "@Lat": "50.84280777",
+        "@Long": "3.234594107",
+        "@Function": "P30",
+        "$": "00.0001.A5CB"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112048",
+        "@Street": "Kortrijksestraat 9 (HEU)",
+        "@Lat": "50.84275818",
+        "@Long": "3.234828711",
+        "@Function": "P30",
+        "$": "00.0002.0718"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "112049",
+        "@Street": "Kortrijksestraat 9 (HEU)",
+        "@Lat": "50.84280014",
+        "@Long": "3.234823227",
+        "@Function": "P30",
+        "$": "00.0002.072E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112050",
+        "@Street": "Kortrijksestraat 3 (HEU)",
+        "@Lat": "50.84284973",
+        "@Long": "3.234821796",
+        "@Function": "P30",
+        "$": "00.0002.0897"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112051",
+        "@Street": "Kortrijksestraat 3 (HEU)",
+        "@Lat": "50.84289169",
+        "@Long": "3.234821796",
+        "@Function": "P30",
+        "$": "00.0002.0740"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112037",
+        "@Street": "Heuleplaats 4 (HEU)",
+        "@Lat": "50.84346008",
+        "@Long": "3.234247923",
+        "@Function": "P30",
+        "$": "00.0002.15AF"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112038",
+        "@Street": "Heuleplaats 4 (HEU)",
+        "@Lat": "50.84344864",
+        "@Long": "3.234297037",
+        "@Function": "P30",
+        "$": "00.0002.0558"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112047",
+        "@Street": "Heuleplaats 1 (HEU)",
+        "@Lat": "50.84343338",
+        "@Long": "3.23436451",
+        "@Function": "P30",
+        "$": "00.0002.073E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "112039",
+        "@Street": "Mellestraat 46 (HEU)",
+        "@Lat": "50.8463707",
+        "@Long": "3.231306076",
+        "@Function": "P30",
+        "$": "00.0002.0568"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "112040",
+        "@Street": "Mellestraat 46 (HEU)",
+        "@Lat": "50.84631348",
+        "@Long": "3.231339931",
+        "@Function": "P30",
+        "$": "00.0002.0561"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "",
+        "@Street": "",
+        "@Lat": "",
+        "@Long": "",
+        "@Function": "",
+        "$": "00.0001.7EAB"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "",
+        "@Street": "",
+        "@Lat": "",
+        "@Long": "",
+        "@Function": "",
+        "$": "00.0001.7D5C"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "129003",
+        "@Street": "Vlaskaai 5 (KOR)",
+        "@Lat": "50.82960129",
+        "@Long": "3.25532198",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7D68"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "",
+        "@Street": "",
+        "@Lat": "",
+        "@Long": "",
+        "@Function": "",
+        "$": "00.0001.777B"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "129005",
+        "@Street": "Vlaskaai 4 (KOR)",
+        "@Lat": "50.82964325",
+        "@Long": "3.255529881",
+        "@Function": "BEWONERS",
+        "$": "00.0001.77A3"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "",
+        "@Street": "",
+        "@Lat": "",
+        "@Long": "",
+        "@Function": "",
+        "$": "00.0001.4B4A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129007",
+        "@Street": "Gasstraat 9 (KOR)",
+        "@Lat": "50.83074951",
+        "@Long": "3.25673008",
+        "@Function": "CARS",
+        "$": "00.0001.2463"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129008",
+        "@Street": "Gasstraat 9 (KOR)",
+        "@Lat": "50.83076859",
+        "@Long": "3.256710052",
+        "@Function": "CARS",
+        "$": "00.0001.77A2"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129009",
+        "@Street": "Gasstraat 9 (KOR)",
+        "@Lat": "50.83081818",
+        "@Long": "3.256680012",
+        "@Function": "CARS",
+        "$": "00.0001.779A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129010",
+        "@Street": "Gasstraat 9 (KOR)",
+        "@Lat": "50.83084106",
+        "@Long": "3.256669998",
+        "@Function": "CARS",
+        "$": "00.0001.778B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129011",
+        "@Street": "Gasstraat 9 (KOR)",
+        "@Lat": "50.83086014",
+        "@Long": "3.256649971",
+        "@Function": "CARS",
+        "$": "00.0001.7D2E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129012",
+        "@Street": "Gasstraat 9 (KOR)",
+        "@Lat": "50.83087921",
+        "@Long": "3.256639957",
+        "@Function": "CARS",
+        "$": "00.0001.A25B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129013",
+        "@Street": "Gasstraat 9 (KOR)",
+        "@Lat": "50.83089066",
+        "@Long": "3.25661993",
+        "@Function": "CARS",
+        "$": "00.0001.C292"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129014",
+        "@Street": "Gasstraat 9 (KOR)",
+        "@Lat": "50.83090973",
+        "@Long": "3.256609917",
+        "@Function": "CARS",
+        "$": "00.0001.7D35"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129015",
+        "@Street": "Gasstraat 9 (KOR)",
+        "@Lat": "50.8309288",
+        "@Long": "3.256599903",
+        "@Function": "CARS",
+        "$": "00.0001.7D60"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129016",
+        "@Street": "Gasstraat 9 (KOR)",
+        "@Lat": "50.83095169",
+        "@Long": "3.25658989",
+        "@Function": "CARS",
+        "$": "00.0001.7D96"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "129017",
+        "@Street": "Gasstraat 33 (KOR)",
+        "@Lat": "50.83163452",
+        "@Long": "3.256144047",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0720"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129018",
+        "@Street": "Gasstraat 33 (KOR)",
+        "@Lat": "50.83168411",
+        "@Long": "3.256109238",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7EAE"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "129019",
+        "@Street": "Rekollettenstraat 120 (KOR)",
+        "@Lat": "50.83095169",
+        "@Long": "3.255700111",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7E23"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129020",
+        "@Street": "Rekollettenstraat 39 (KOR)",
+        "@Lat": "50.83097076",
+        "@Long": "3.255759954",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7F33"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "129021",
+        "@Street": "Rekollettenstraat 39 (KOR)",
+        "@Lat": "50.83098984",
+        "@Long": "3.25583005",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7D32"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "129022",
+        "@Street": "Rekollettenstraat 108 (KOR)",
+        "@Lat": "50.83100128",
+        "@Long": "3.255896091",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7EDD"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "129023",
+        "@Street": "Rekollettenstraat 106 (KOR)",
+        "@Lat": "50.8310318",
+        "@Long": "3.255949974",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7ED9"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129024",
+        "@Street": "Rekollettenstraat 35 (KOR)",
+        "@Lat": "50.83105087",
+        "@Long": "3.256030083",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7D4E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129025",
+        "@Street": "Rekollettenstraat 98 (KOR)",
+        "@Lat": "50.8313179",
+        "@Long": "3.256675005",
+        "@Function": "BEWONERS",
+        "$": "00.0001.4B8F"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129006",
+        "@Street": "Vlaskaai 4 (KOR)",
+        "@Lat": "50.82966614",
+        "@Long": "3.255638599",
+        "@Function": "BEWONERS",
+        "$": "00.0001.BE61"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129027",
+        "@Street": "Rekollettenstraat 84 (KOR)",
+        "@Lat": "50.83135223",
+        "@Long": "3.256777048",
+        "@Function": "BEWONERS",
+        "$": "00.0001.BE1D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129028",
+        "@Street": "Rekollettenstraat 92 (KOR)",
+        "@Lat": "50.83136749",
+        "@Long": "3.256825209",
+        "@Function": "BEWONERS",
+        "$": "00.0002.1EB0"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "129029",
+        "@Street": "Rekollettenstraat 90 (KOR)",
+        "@Lat": "50.83138657",
+        "@Long": "3.256884575",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7D64"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129030",
+        "@Street": "Rekollettenstraat 88 (KOR)",
+        "@Lat": "50.83140564",
+        "@Long": "3.25694418",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A615"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129031",
+        "@Street": "Rekollettenstraat 86 (KOR)",
+        "@Lat": "50.83142471",
+        "@Long": "3.257016182",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A62A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129032",
+        "@Street": "Rekollettenstraat 86 (KOR)",
+        "@Lat": "50.83145142",
+        "@Long": "3.257086277",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C234"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129033",
+        "@Street": "Rekollettenstraat 80 (KOR)",
+        "@Lat": "50.83149719",
+        "@Long": "3.257233143",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C23B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "130002",
+        "@Street": "Guido Gezellelaan 135 (HEU)",
+        "@Lat": "50.83517838",
+        "@Long": "3.237538099",
+        "@Function": "P30",
+        "$": "00.0001.7D90"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "130004",
+        "@Street": "Guido Gezellelaan 173 (HEU)",
+        "@Lat": "50.83611298",
+        "@Long": "3.236701965",
+        "@Function": "P30",
+        "$": "00.0001.FD8E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "130005",
+        "@Street": "Oude Ieperseweg 63 (HEU)",
+        "@Lat": "50.83655548",
+        "@Long": "3.235374451",
+        "@Function": "P30",
+        "$": "00.0001.A881"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "130006",
+        "@Street": "Oude Ieperseweg 63 (HEU)",
+        "@Lat": "50.83653259",
+        "@Long": "3.235264301",
+        "@Function": "P30",
+        "$": "00.0001.A887"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "130007",
+        "@Street": "Oude Ieperseweg 65 (HEU)",
+        "@Lat": "50.83650589",
+        "@Long": "3.235159874",
+        "@Function": "P30",
+        "$": "00.0001.A86F"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "130008",
+        "@Street": "Moorseelsestraat 252 (HEU)",
+        "@Lat": "50.83218384",
+        "@Long": "3.240237236",
+        "@Function": "P30",
+        "$": "00.0001.A883"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "130009",
+        "@Street": "Moorseelsestraat 212 (HEU)",
+        "@Lat": "50.83183289",
+        "@Long": "3.24160409",
+        "@Function": "P30",
+        "$": "00.0000.C2DB"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "131001",
+        "@Street": "Papenstraat 31 (KOR)",
+        "@Lat": "50.82872009",
+        "@Long": "3.263602018",
+        "@Function": "Disabled",
+        "$": "00.0001.7F35"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "131002",
+        "@Street": "Papenstraat 31 (KOR)",
+        "@Lat": "50.82868195",
+        "@Long": "3.263620615",
+        "@Function": "Disabled",
+        "$": "00.0001.7E41"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "131003",
+        "@Street": "Rijselsestraat 26 (KOR)",
+        "@Lat": "50.82767105",
+        "@Long": "3.262775898",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A88A"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "131004",
+        "@Street": "Rijselsestraat 26A (KOR)",
+        "@Lat": "50.82772064",
+        "@Long": "3.26275444",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A873"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "131005",
+        "@Street": "Rijselsestraat 26A (KOR)",
+        "@Lat": "50.82777023",
+        "@Long": "3.262724876",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A86B"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "131006",
+        "@Street": "Rijselsestraat 26A (KOR)",
+        "@Lat": "50.82782364",
+        "@Long": "3.262700796",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A893"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "131007",
+        "@Street": "Heilige-Geeststraat 9 (KOR)",
+        "@Lat": "50.82838058",
+        "@Long": "3.262418985",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A660"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "131008",
+        "@Street": "Heilige-Geeststraat 11 (KOR)",
+        "@Lat": "50.82843018",
+        "@Long": "3.262394905",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A664"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "131009",
+        "@Street": "Heilige-Geeststraat 4 (KOR)",
+        "@Lat": "50.82871628",
+        "@Long": "3.262263536",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A7F3"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "131010",
+        "@Street": "Heilige-Geeststraat 4 (KOR)",
+        "@Lat": "50.82876968",
+        "@Long": "3.262245893",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A7FD"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "132001",
+        "@Street": "t Hoge 84 (KOR)",
+        "@Lat": "50.79798508",
+        "@Long": "3.286219597",
+        "@Function": "P30",
+        "$": "00.0001.779D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "132002",
+        "@Street": "t Hoge 88 (KOR)",
+        "@Lat": "50.79793167",
+        "@Long": "3.28625989",
+        "@Function": "P30",
+        "$": "00.0001.7D9D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "132003",
+        "@Street": "t Hoge 39 (KOR)",
+        "@Lat": "50.79935837",
+        "@Long": "3.28548646",
+        "@Function": "P30",
+        "$": "00.0002.2D04"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "132004",
+        "@Street": "t Hoge 39 (KOR)",
+        "@Lat": "50.79930878",
+        "@Long": "3.285515785",
+        "@Function": "P30",
+        "$": "00.0002.0565"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "133001",
+        "@Street": "Lauwsestraat 14 (AAL)",
+        "@Lat": "50.77842712",
+        "@Long": "3.229243994",
+        "@Function": "P30",
+        "$": "00.0001.7F31"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "133002",
+        "@Street": "Lauwsestraat 14 (AAL)",
+        "@Lat": "50.77846909",
+        "@Long": "3.229155064",
+        "@Function": "P30",
+        "$": "00.0001.7F44"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "133003",
+        "@Street": "Lauwsestraat 26 (AAL)",
+        "@Lat": "50.77870941",
+        "@Long": "3.228615284",
+        "@Function": "P30",
+        "$": "00.0001.7F34"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "133004",
+        "@Street": "Lauwsestraat 26 (AAL)",
+        "@Lat": "50.77872849",
+        "@Long": "3.228559017",
+        "@Function": "P30",
+        "$": "00.0001.7ED8"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "133005",
+        "@Street": "Lauwsestraat 42 (AAL)",
+        "@Lat": "50.77905655",
+        "@Long": "3.2276299",
+        "@Function": "P30",
+        "$": "00.0001.7EA0"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "133006",
+        "@Street": "Lauwsestraat 42 (AAL)",
+        "@Lat": "50.77907562",
+        "@Long": "3.227579117",
+        "@Function": "P30",
+        "$": "00.0001.7F2C"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "135001",
+        "@Street": "Dam 22 (KOR)",
+        "@Lat": "50.83127594",
+        "@Long": "3.266788483",
+        "@Function": "CARS",
+        "$": "00.0001.7E1F"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "135002",
+        "@Street": "Dam 22 (KOR)",
+        "@Lat": "50.83130646",
+        "@Long": "3.266758919",
+        "@Function": "CARS",
+        "$": "00.0001.7D67"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "135003",
+        "@Street": "Dam 22 (KOR)",
+        "@Lat": "50.83133698",
+        "@Long": "3.266728163",
+        "@Function": "CARS",
+        "$": "00.0001.7E9D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "135004",
+        "@Street": "Dam 22 (KOR)",
+        "@Lat": "50.83136749",
+        "@Long": "3.266702652",
+        "@Function": "CARS",
+        "$": "00.0001.7D6D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "135005",
+        "@Street": "Dam 67 (KOR)",
+        "@Lat": "50.83145905",
+        "@Long": "3.266614199",
+        "@Function": "CARS",
+        "$": "00.0002.0742"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "135006",
+        "@Street": "Dam 67 (KOR)",
+        "@Lat": "50.83148575",
+        "@Long": "3.266599417",
+        "@Function": "P30",
+        "$": "00.0002.0850"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "135007",
+        "@Street": "Dam 67 (KOR)",
+        "@Lat": "50.83151245",
+        "@Long": "3.266587257",
+        "@Function": "P30",
+        "$": "00.0002.070B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "135008",
+        "@Street": "Dam 67 (KOR)",
+        "@Lat": "50.83153915",
+        "@Long": "3.266575098",
+        "@Function": "P30",
+        "$": "00.0002.0712"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "135009",
+        "@Street": "Dam 67 (KOR)",
+        "@Lat": "50.83156586",
+        "@Long": "3.2665658",
+        "@Function": "P30",
+        "$": "00.0002.076C"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "135010",
+        "@Street": "Dam 67 (KOR)",
+        "@Lat": "50.83159256",
+        "@Long": "3.266556501",
+        "@Function": "P30",
+        "$": "00.0002.0874"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "135011",
+        "@Street": "Dam 12 (KOR)",
+        "@Lat": "50.83156586",
+        "@Long": "3.265063763",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A82F"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "135012",
+        "@Street": "Dam 12 (KOR)",
+        "@Lat": "50.83156586",
+        "@Long": "3.264972687",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A863"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "135013",
+        "@Street": "Dam 12 (KOR)",
+        "@Lat": "50.83156586",
+        "@Long": "3.264885426",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A7F9"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "135014",
+        "@Street": "Dam 12 (KOR)",
+        "@Lat": "50.83156967",
+        "@Long": "3.264802217",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A7E8"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "135015",
+        "@Street": "Dam 8A (KOR)",
+        "@Lat": "50.83156967",
+        "@Long": "3.264719963",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A600"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "135016",
+        "@Street": "Dam 8A (KOR)",
+        "@Lat": "50.83156586",
+        "@Long": "3.264489174",
+        "@Function": "P30",
+        "$": "00.0002.2064"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "135017",
+        "@Street": "Dam 8A (KOR)",
+        "@Lat": "50.83156586",
+        "@Long": "3.264409304",
+        "@Function": "P30",
+        "$": "00.0002.1EB9"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "135018",
+        "@Street": "Dam 8A (KOR)",
+        "@Lat": "50.83156586",
+        "@Long": "3.26432085",
+        "@Function": "P30",
+        "$": "00.0002.2038"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "135019",
+        "@Street": "Dam 8A (KOR)",
+        "@Lat": "50.83156586",
+        "@Long": "3.264230967",
+        "@Function": "P30",
+        "$": "00.0002.2D0D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "135020",
+        "@Street": "Dam 8A (KOR)",
+        "@Lat": "50.83156586",
+        "@Long": "3.264145136",
+        "@Function": "P30",
+        "$": "00.0002.2D1B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "135021",
+        "@Street": "Dam 8 (KOR)",
+        "@Lat": "50.83158493",
+        "@Long": "3.264070034",
+        "@Function": "P30",
+        "$": "00.0002.2048"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "135022",
+        "@Street": "Dam 8 (KOR)",
+        "@Lat": "50.83161545",
+        "@Long": "3.264017582",
+        "@Function": "P30",
+        "$": "00.0002.2037"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "135024",
+        "@Street": "Dam 8A (KOR)",
+        "@Lat": "50.83156967",
+        "@Long": "3.264579535",
+        "@Function": "P30",
+        "$": "00.0002.2050"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136001",
+        "@Street": "Fabriekskaai 1 (KOR)",
+        "@Lat": "50.83117294",
+        "@Long": "3.260792255",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7EEF"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "136002",
+        "@Street": "Fabriekskaai 1 (KOR)",
+        "@Lat": "50.83114243",
+        "@Long": "3.260699749",
+        "@Function": "BEWONERS",
+        "$": "00.0001.779E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136003",
+        "@Street": "Fabriekskaai 1 (KOR)",
+        "@Lat": "50.83110809",
+        "@Long": "3.260607243",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7D31"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136004",
+        "@Street": "Fabriekskaai 2 (KOR)",
+        "@Lat": "50.83106995",
+        "@Long": "3.260528803",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7767"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136005",
+        "@Street": "Fabriekskaai 2 (KOR)",
+        "@Lat": "50.8310318",
+        "@Long": "3.260447741",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7E88"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "136006",
+        "@Street": "Fabriekskaai 9 (KOR)",
+        "@Lat": "50.83099365",
+        "@Long": "3.260371208",
+        "@Function": "BEWONERS",
+        "$": "00.0001.820D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "136007",
+        "@Street": "Fabriekskaai 10 (KOR)",
+        "@Lat": "50.83095169",
+        "@Long": "3.260310173",
+        "@Function": "BEWONERS",
+        "$": "00.0001.820E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136008",
+        "@Street": "Fabriekskaai 13 (KOR)",
+        "@Lat": "50.83089828",
+        "@Long": "3.26024127",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7868"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136009",
+        "@Street": "Fabriekskaai 13A (KOR)",
+        "@Lat": "50.83085251",
+        "@Long": "3.260182142",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7D5F"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136010",
+        "@Street": "Fabriekskaai 13A (KOR)",
+        "@Lat": "50.83081055",
+        "@Long": "3.260131121",
+        "@Function": "BEWONERS",
+        "$": "00.0001.8211"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136011",
+        "@Street": "Fabriekskaai 14 (KOR)",
+        "@Lat": "50.83078766",
+        "@Long": "3.259730101",
+        "@Function": "BEWONERS",
+        "$": "00.0001.779F"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136012",
+        "@Street": "Fabriekskaai 14 (KOR)",
+        "@Lat": "50.83083344",
+        "@Long": "3.259697914",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7D8A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136013",
+        "@Street": "Burgemeester Schinkelstraat 2 (KOR)",
+        "@Lat": "50.83088303",
+        "@Long": "3.259661913",
+        "@Function": "BEWONERS",
+        "$": "00.0001.77A0"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136014",
+        "@Street": "Burgemeester Schinkelstraat 4 (KOR)",
+        "@Lat": "50.8309288",
+        "@Long": "3.259629488",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7DA5"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136015",
+        "@Street": "Burgemeester Schinkelstraat 6 (KOR)",
+        "@Lat": "50.83097839",
+        "@Long": "3.259596109",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7D61"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "136016",
+        "@Street": "Burgemeester Schinkelstraat 10 (KOR)",
+        "@Lat": "50.83103561",
+        "@Long": "3.259556055",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7787"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136017",
+        "@Street": "Burgemeester Schinkelstraat 20 (KOR)",
+        "@Lat": "50.83126831",
+        "@Long": "3.259404182",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7F42"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "136018",
+        "@Street": "Burgemeester Schinkelstraat 36 (KOR)",
+        "@Lat": "50.83132553",
+        "@Long": "3.259364128",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7D63"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136019",
+        "@Street": "Burgemeester Schinkelstraat 9 (KOR)",
+        "@Lat": "50.83145523",
+        "@Long": "3.259157419",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7E8F"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136020",
+        "@Street": "Burgemeester Schinkelstraat 13 (KOR)",
+        "@Lat": "50.83150864",
+        "@Long": "3.259129286",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7ED5"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136021",
+        "@Street": "Burgemeester Schinkelstraat 15 (KOR)",
+        "@Lat": "50.83155823",
+        "@Long": "3.25909853",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7ED6"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136022",
+        "@Street": "Burgemeester Schinkelstraat 17 (KOR)",
+        "@Lat": "50.83160782",
+        "@Long": "3.259064913",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7EBE"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "136023",
+        "@Street": "Burgemeester Schinkelstraat 19 (KOR)",
+        "@Lat": "50.83166122",
+        "@Long": "3.259032726",
+        "@Function": "BEWONERS",
+        "$": "00.0002.2CCE"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136024",
+        "@Street": "Burgemeester Schinkelstraat 25 (KOR)",
+        "@Lat": "50.83179855",
+        "@Long": "3.25894165",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7D6C"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "136025",
+        "@Street": "Burgemeester Schinkelstraat 29 (KOR)",
+        "@Lat": "50.83184433",
+        "@Long": "3.258905411",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7D5B"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "136026",
+        "@Street": "Burgemeester Schinkelstraat 29 (KOR)",
+        "@Lat": "50.83189392",
+        "@Long": "3.258878708",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7D7A"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "136027",
+        "@Street": "Dam 11 (KOR)",
+        "@Lat": "50.83180237",
+        "@Long": "3.263808012",
+        "@Function": "P30",
+        "$": "00.0001.A7F4"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136028",
+        "@Street": "Dam 11 (KOR)",
+        "@Lat": "50.83179855",
+        "@Long": "3.263874054",
+        "@Function": "P30",
+        "$": "00.0001.A7E6"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "140001",
+        "@Street": "Ijzerkaai 65 (KOR)",
+        "@Lat": "50.83350754",
+        "@Long": "3.269053936",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A818"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "140002",
+        "@Street": "Ijzerkaai 65 (KOR)",
+        "@Lat": "50.83347321",
+        "@Long": "3.268990993",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A7EE"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "140003",
+        "@Street": "Ijzerkaai 63 (KOR)",
+        "@Lat": "50.83341599",
+        "@Long": "3.268915892",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A7DF"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "140004",
+        "@Street": "Ijzerkaai 63 (KOR)",
+        "@Lat": "50.83337402",
+        "@Long": "3.268867016",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A83A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "140005",
+        "@Street": "Ijzerkaai 59 (KOR)",
+        "@Lat": "50.83327866",
+        "@Long": "3.268735886",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A847"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "140006",
+        "@Street": "Ijzerkaai 58 (KOR)",
+        "@Lat": "50.83324432",
+        "@Long": "3.268667936",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A84E"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "140007",
+        "@Street": "Ijzerkaai 57 (KOR)",
+        "@Lat": "50.83320236",
+        "@Long": "3.268587112",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A858"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "140008",
+        "@Street": "Ijzerkaai 57 (KOR)",
+        "@Lat": "50.83317184",
+        "@Long": "3.268520117",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A832"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "140009",
+        "@Street": "Ijzerkaai 56 (KOR)",
+        "@Lat": "50.83314133",
+        "@Long": "3.268459082",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A826"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "140010",
+        "@Street": "Ijzerkaai 56 (KOR)",
+        "@Lat": "50.83311844",
+        "@Long": "3.268397093",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A860"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "140011",
+        "@Street": "Ijzerkaai 52 (KOR)",
+        "@Lat": "50.8330307",
+        "@Long": "3.268188953",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A865"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "140012",
+        "@Street": "Ijzerkaai 52 (KOR)",
+        "@Lat": "50.83298492",
+        "@Long": "3.268069029",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A803"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "140013",
+        "@Street": "Ijzerkaai 50 (KOR)",
+        "@Lat": "50.83294678",
+        "@Long": "3.267915964",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A88C"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "140014",
+        "@Street": "Ijzerkaai 49 (KOR)",
+        "@Lat": "50.83291245",
+        "@Long": "3.267781973",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A85B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "140015",
+        "@Street": "Ijzerkaai 22 (KOR)",
+        "@Lat": "50.83253479",
+        "@Long": "3.265259981",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A82B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "140016",
+        "@Street": "Ijzerkaai 21 (KOR)",
+        "@Lat": "50.83251572",
+        "@Long": "3.265145063",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A85D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "140017",
+        "@Street": "Ijzerkaai 18 (KOR)",
+        "@Lat": "50.83249664",
+        "@Long": "3.265039921",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A82D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "140018",
+        "@Street": "Koning Albertpark 19 (KOR)",
+        "@Lat": "50.83501053",
+        "@Long": "3.267007113",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A849"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "140019",
+        "@Street": "Koning Albertpark 19 (KOR)",
+        "@Lat": "50.8349762",
+        "@Long": "3.267060041",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A848"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "140020",
+        "@Street": "Koning Albertpark 19 (KOR)",
+        "@Lat": "50.83494568",
+        "@Long": "3.267106056",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A83E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "140021",
+        "@Street": "Koning Albertpark 18 (KOR)",
+        "@Lat": "50.83492279",
+        "@Long": "3.267143011",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A88D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "140022",
+        "@Street": "Koning Albertpark 18 (KOR)",
+        "@Lat": "50.8348999",
+        "@Long": "3.267183065",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A807"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "140023",
+        "@Street": "Koning Albertpark 18 (KOR)",
+        "@Lat": "50.8348732",
+        "@Long": "3.267225027",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A81E"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "140024",
+        "@Street": "Koning Albertpark 15 (KOR)",
+        "@Lat": "50.83485031",
+        "@Long": "3.267265081",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A84C"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "140025",
+        "@Street": "Koning Albertpark 15 (KOR)",
+        "@Lat": "50.83482361",
+        "@Long": "3.267306089",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A844"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "140026",
+        "@Street": "Koning Albertpark 11 (KOR)",
+        "@Lat": "50.83479691",
+        "@Long": "3.267347097",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A836"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "140027",
+        "@Street": "Koning Albertpark 11 (KOR)",
+        "@Lat": "50.83477402",
+        "@Long": "3.267385006",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A83D"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "140028",
+        "@Street": "Koning Albertpark 11 (KOR)",
+        "@Lat": "50.83475876",
+        "@Long": "3.267415047",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A7F0"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "142001",
+        "@Street": "Marksesteenweg 152 (KOR)",
+        "@Lat": "50.81976714",
+        "@Long": "3.247205019",
+        "@Function": "P30",
+        "$": "00.0001.A2F3"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "142002",
+        "@Street": "Marksesteenweg 152 (KOR)",
+        "@Lat": "50.81972099",
+        "@Long": "3.247240595",
+        "@Function": "P30",
+        "$": "00.0001.A2F9"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "142003",
+        "@Street": "Marksesteenweg 152 (KOR)",
+        "@Lat": "50.81967163",
+        "@Long": "3.247278929",
+        "@Function": "P30",
+        "$": "00.0001.A2FF"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "100001",
+        "@Street": "Sint-Jorisstraat 35 (KOR)",
+        "@Lat": "50.82474899",
+        "@Long": "3.267326117",
+        "@Function": "P30",
+        "$": "00.0001.C26B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "100002",
+        "@Street": "Sint-Jorisstraat 35 (KOR)",
+        "@Lat": "50.82469177",
+        "@Long": "3.267456055",
+        "@Function": "P30",
+        "$": "00.0001.C28C"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "100003",
+        "@Street": "Doorniksestraat 51 (KOR)",
+        "@Lat": "50.82558441",
+        "@Long": "3.267448902",
+        "@Function": "P30",
+        "$": "00.0000.C2EC"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100004",
+        "@Street": "Doorniksestraat 51 (KOR)",
+        "@Lat": "50.825634",
+        "@Long": "3.267414093",
+        "@Function": "P30",
+        "$": "00.0001.FA20"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100009",
+        "@Street": "Vlasmarkt 2 (KOR)",
+        "@Lat": "50.82559204",
+        "@Long": "3.26781702",
+        "@Function": "P30",
+        "$": "00.0000.A105"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "100010",
+        "@Street": "Vlasmarkt 4 (KOR)",
+        "@Lat": "50.82561874",
+        "@Long": "3.267920971",
+        "@Function": "P30",
+        "$": "00.0002.0CF4"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100011",
+        "@Street": "Vlasmarkt 4 (KOR)",
+        "@Lat": "50.82564163",
+        "@Long": "3.268021107",
+        "@Function": "P30",
+        "$": "00.0001.A57E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100012",
+        "@Street": "Vlasmarkt 15 (KOR)",
+        "@Lat": "50.82566071",
+        "@Long": "3.268094063",
+        "@Function": "P30",
+        "$": "00.0001.1DAA"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100013",
+        "@Street": "Vlasmarkt 15 (KOR)",
+        "@Lat": "50.82567978",
+        "@Long": "3.268189907",
+        "@Function": "P30",
+        "$": "00.0001.1C9E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100014",
+        "@Street": "Vlasmarkt 15 (KOR)",
+        "@Lat": "50.82570267",
+        "@Long": "3.268255949",
+        "@Function": "P30",
+        "$": "00.0000.A0A2"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100015",
+        "@Street": "Vlasmarkt 17 (KOR)",
+        "@Lat": "50.82572556",
+        "@Long": "3.268356085",
+        "@Function": "P30",
+        "$": "00.0001.1C73"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100016",
+        "@Street": "Vlasmarkt 17 (KOR)",
+        "@Lat": "50.82574081",
+        "@Long": "3.268414021",
+        "@Function": "P30",
+        "$": "00.0000.A0DC"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "100033",
+        "@Street": "Grote Markt 37 (KOR)",
+        "@Lat": "50.82703018",
+        "@Long": "3.266031981",
+        "@Function": "P30",
+        "$": "00.0000.9904"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100034",
+        "@Street": "Grote Markt 37 (KOR)",
+        "@Lat": "50.82698822",
+        "@Long": "3.266078949",
+        "@Function": "P30",
+        "$": "00.0000.994C"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100035",
+        "@Street": "Grote Markt 37 (KOR)",
+        "@Lat": "50.8269577",
+        "@Long": "3.26611805",
+        "@Function": "P30",
+        "$": "00.0001.4FF0"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100036",
+        "@Street": "Grote Markt 37 (KOR)",
+        "@Lat": "50.82691956",
+        "@Long": "3.266161919",
+        "@Function": "P30",
+        "$": "00.0000.990A"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100037",
+        "@Street": "Doorniksestraat 11 (KOR)",
+        "@Lat": "50.82687378",
+        "@Long": "3.266210079",
+        "@Function": "P30",
+        "$": "00.0000.9903"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "100038",
+        "@Street": "Doorniksestraat 11 (KOR)",
+        "@Lat": "50.82683182",
+        "@Long": "3.266269922",
+        "@Function": "P30",
+        "$": "00.0001.FA19"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100039",
+        "@Street": "Doorniksestraat 11 (KOR)",
+        "@Lat": "50.82675171",
+        "@Long": "3.266367912",
+        "@Function": "P30",
+        "$": "00.0000.9906"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "100040",
+        "@Street": "Doorniksestraat 11 (KOR)",
+        "@Lat": "50.82671738",
+        "@Long": "3.266407967",
+        "@Function": "P30",
+        "$": "00.0000.9929"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100005",
+        "@Street": "Spoorweglaan 4 (KOR)",
+        "@Lat": "50.82462692",
+        "@Long": "3.268692017",
+        "@Function": "P30",
+        "$": "00.0001.1C4E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100006",
+        "@Street": "Spoorweglaan 4 (KOR)",
+        "@Lat": "50.82463837",
+        "@Long": "3.268774986",
+        "@Function": "P30",
+        "$": "00.0001.501C"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "100007",
+        "@Street": "Tuinstraat 20 (KOR)",
+        "@Lat": "50.824646",
+        "@Long": "3.268866062",
+        "@Function": "P30",
+        "$": "00.0000.C229"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100017",
+        "@Street": "Doorniksestraat 11 (KOR)",
+        "@Lat": "50.82668304",
+        "@Long": "3.266450882",
+        "@Function": "P30",
+        "$": "00.0000.992D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100018",
+        "@Street": "Doorniksestraat 11 (KOR)",
+        "@Lat": "50.82662964",
+        "@Long": "3.266504049",
+        "@Function": "P30",
+        "$": "00.0000.9913"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100019",
+        "@Street": "Doorniksestraat 16 (KOR)",
+        "@Lat": "50.82660294",
+        "@Long": "3.266531944",
+        "@Function": "P30",
+        "$": "00.0000.9918"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100020",
+        "@Street": "Doorniksestraat 16 (KOR)",
+        "@Lat": "50.82657623",
+        "@Long": "3.266561985",
+        "@Function": "P30",
+        "$": "00.0000.9919"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100021",
+        "@Street": "Doorniksestraat 16 (KOR)",
+        "@Lat": "50.8265152",
+        "@Long": "3.266629934",
+        "@Function": "P30",
+        "$": "00.0000.9901"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100022",
+        "@Street": "Doorniksestraat 19 (KOR)",
+        "@Lat": "50.82645035",
+        "@Long": "3.26670599",
+        "@Function": "P30",
+        "$": "00.0000.98F0"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100023",
+        "@Street": "Doorniksestraat 21 (KOR)",
+        "@Lat": "50.82641602",
+        "@Long": "3.266736031",
+        "@Function": "P30",
+        "$": "00.0000.9920"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100025",
+        "@Street": "Doorniksestraat 39 (KOR)",
+        "@Lat": "50.82595062",
+        "@Long": "3.267209053",
+        "@Function": "P30",
+        "$": "00.0000.9921"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100026",
+        "@Street": "Doorniksestraat 41 (KOR)",
+        "@Lat": "50.82591248",
+        "@Long": "3.267235041",
+        "@Function": "P30",
+        "$": "00.0000.98FD"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100027",
+        "@Street": "Doorniksestraat 41 (KOR)",
+        "@Lat": "50.8258667",
+        "@Long": "3.267276049",
+        "@Function": "P30",
+        "$": "00.0000.9922"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "100028",
+        "@Street": "Doorniksestraat 45 (KOR)",
+        "@Lat": "50.82582474",
+        "@Long": "3.267288923",
+        "@Function": "P30",
+        "$": "00.0000.9911"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100029",
+        "@Street": "Doorniksestraat 45 (KOR)",
+        "@Lat": "50.82577896",
+        "@Long": "3.267343044",
+        "@Function": "P30",
+        "$": "00.0000.9926"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100030",
+        "@Street": "Doorniksestraat 51 (KOR)",
+        "@Lat": "50.82572174",
+        "@Long": "3.267395973",
+        "@Function": "P30",
+        "$": "00.0000.9946"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100031",
+        "@Street": "Doorniksestraat 51 (KOR)",
+        "@Lat": "50.82565308",
+        "@Long": "3.267468929",
+        "@Function": "P30",
+        "$": "00.0001.1C9D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100032",
+        "@Street": "Doorniksestraat 51 (KOR)",
+        "@Lat": "50.82562256",
+        "@Long": "3.267499924",
+        "@Function": "P30",
+        "$": "00.0001.1DD9"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100041",
+        "@Street": "Grote Markt 38 (KOR)",
+        "@Lat": "50.8273735",
+        "@Long": "3.265635967",
+        "@Function": "P30",
+        "$": "00.0000.98FF"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100042",
+        "@Street": "Grote Markt 45 (KOR)",
+        "@Lat": "50.82741165",
+        "@Long": "3.265584946",
+        "@Function": "P30",
+        "$": "00.0001.286E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "100044",
+        "@Street": "Grote Markt 44 (KOR)",
+        "@Lat": "50.8274498",
+        "@Long": "3.26553297",
+        "@Function": "P30",
+        "$": "00.0001.2837"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "100046",
+        "@Street": "Grote Markt 44 (KOR)",
+        "@Lat": "50.82749176",
+        "@Long": "3.265481949",
+        "@Function": "P30",
+        "$": "00.0001.502A"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100047",
+        "@Street": "Grote Markt 44 (KOR)",
+        "@Lat": "50.82752991",
+        "@Long": "3.265430927",
+        "@Function": "P30",
+        "$": "00.0001.5027"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "100048",
+        "@Street": "Doorniksestraat 2 (KOR)",
+        "@Lat": "50.82694824",
+        "@Long": "3.265602887",
+        "@Function": "LAADPALEN",
+        "$": "00.0001.2444"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "100049",
+        "@Street": "Doorniksestraat 2 (KOR)",
+        "@Lat": "50.82696857",
+        "@Long": "3.265653849",
+        "@Function": "LAADPALEN",
+        "$": "00.0000.D131"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100051",
+        "@Street": "Grote Markt 19 (KOR)",
+        "@Lat": "50.82774353",
+        "@Long": "3.267075062",
+        "@Function": "P30",
+        "$": "00.0001.A5A5"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "100052",
+        "@Street": "Grote Markt 19 (KOR)",
+        "@Lat": "50.82772446",
+        "@Long": "3.267013073",
+        "@Function": "P30",
+        "$": "00.0001.1DEE"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "100053",
+        "@Street": "Grote Markt 19 (KOR)",
+        "@Lat": "50.82770538",
+        "@Long": "3.266948938",
+        "@Function": "P30",
+        "$": "00.0001.A872"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100054",
+        "@Street": "Havermarkt 2 (KOR)",
+        "@Lat": "50.82610321",
+        "@Long": "3.264475107",
+        "@Function": "P30",
+        "$": "00.0001.A839"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100055",
+        "@Street": "Havermarkt 2 (KOR)",
+        "@Lat": "50.82607269",
+        "@Long": "3.26453495",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A857"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100056",
+        "@Street": "Havermarkt 3 (KOR)",
+        "@Lat": "50.82604218",
+        "@Long": "3.264591932",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A841"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100057",
+        "@Street": "Havermarkt 3 (KOR)",
+        "@Lat": "50.82600021",
+        "@Long": "3.264682055",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A84D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100058",
+        "@Street": "Havermarkt 3 (KOR)",
+        "@Lat": "50.82595825",
+        "@Long": "3.264764071",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A85A"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100059",
+        "@Street": "Havermarkt 3 (KOR)",
+        "@Lat": "50.82593155",
+        "@Long": "3.264817953",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A852"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100060",
+        "@Street": "Schouwburgplein 11 (KOR)",
+        "@Lat": "50.82590485",
+        "@Long": "3.264875889",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A853"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100061",
+        "@Street": "Sint-Jorisstraat 12 (KOR)",
+        "@Lat": "50.8250885",
+        "@Long": "3.266453028",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A810"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100062",
+        "@Street": "Sint-Jorisstraat 12 (KOR)",
+        "@Lat": "50.82512283",
+        "@Long": "3.266379356",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A86A"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100063",
+        "@Street": "Sint-Jorisstraat 10 (KOR)",
+        "@Lat": "50.82515717",
+        "@Long": "3.266316891",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A811"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100064",
+        "@Street": "Sint-Jorisstraat 10 (KOR)",
+        "@Lat": "50.82518387",
+        "@Long": "3.266269922",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A88E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100065",
+        "@Street": "Sint-Jorisstraat 10 (KOR)",
+        "@Lat": "50.82521439",
+        "@Long": "3.266205072",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A816"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100066",
+        "@Street": "Sint-Jorisstraat 8 (KOR)",
+        "@Lat": "50.82528305",
+        "@Long": "3.266068935",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A820"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100067",
+        "@Street": "Sint-Jorisstraat 6 (KOR)",
+        "@Lat": "50.82530975",
+        "@Long": "3.266016006",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A87D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100068",
+        "@Street": "Sint-Jorisstraat 6 (KOR)",
+        "@Lat": "50.82534027",
+        "@Long": "3.265954018",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A87C"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102001",
+        "@Street": "Wandelweg 7 (KOR)",
+        "@Lat": "50.82437515",
+        "@Long": "3.271833658",
+        "@Function": "P30",
+        "$": "00.0001.A875"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102002",
+        "@Street": "Wandelweg 8C (KOR)",
+        "@Lat": "50.82437897",
+        "@Long": "3.271735907",
+        "@Function": "P30",
+        "$": "00.0000.C35C"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102003",
+        "@Street": "Wandelweg 8C (KOR)",
+        "@Lat": "50.82437897",
+        "@Long": "3.271665096",
+        "@Function": "P30",
+        "$": "00.0001.4FF6"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102004",
+        "@Street": "Wandelweg 8 (KOR)",
+        "@Lat": "50.82437897",
+        "@Long": "3.271565437",
+        "@Function": "P30",
+        "$": "00.0001.A5CE"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102005",
+        "@Street": "Spoorweglaan 31 (KOR)",
+        "@Lat": "50.8248291",
+        "@Long": "3.272016048",
+        "@Function": "P30",
+        "$": "00.0000.C20D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102006",
+        "@Street": "Spoorweglaan 29 (KOR)",
+        "@Lat": "50.82482529",
+        "@Long": "3.271933079",
+        "@Function": "P30",
+        "$": "00.0000.C1E2"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102007",
+        "@Street": "Spoorweglaan 27 (KOR)",
+        "@Lat": "50.82482147",
+        "@Long": "3.271852016",
+        "@Function": "P30",
+        "$": "00.0001.1C82"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102008",
+        "@Street": "Spoorweglaan 26 (KOR)",
+        "@Lat": "50.82481766",
+        "@Long": "3.271657944",
+        "@Function": "P30",
+        "$": "00.0000.C1E3"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102009",
+        "@Street": "Spoorweglaan 25 (KOR)",
+        "@Lat": "50.82481003",
+        "@Long": "3.271570921",
+        "@Function": "P30",
+        "$": "00.0001.502B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102011",
+        "@Street": "Sint-Janslaan 29 (KOR)",
+        "@Lat": "50.82511902",
+        "@Long": "3.271179914",
+        "@Function": "P30",
+        "$": "00.0000.C23A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102012",
+        "@Street": "Spoorweglaan 23 (KOR)",
+        "@Lat": "50.82502365",
+        "@Long": "3.271156073",
+        "@Function": "P30",
+        "$": "00.0001.A31D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102013",
+        "@Street": "Spoorweglaan 23 (KOR)",
+        "@Lat": "50.82492828",
+        "@Long": "3.271131992",
+        "@Function": "P30",
+        "$": "00.0000.C231"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102014",
+        "@Street": "Spoorweglaan 23 (KOR)",
+        "@Lat": "50.82488251",
+        "@Long": "3.271116972",
+        "@Function": "P30",
+        "$": "00.0001.A813"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102015",
+        "@Street": "Spoorweglaan 23 (KOR)",
+        "@Lat": "50.82484436",
+        "@Long": "3.271107912",
+        "@Function": "P30",
+        "$": "00.0000.C23B"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102016",
+        "@Street": "Sint-Janslaan 11 (KOR)",
+        "@Lat": "50.82582474",
+        "@Long": "3.271245003",
+        "@Function": "P30",
+        "$": "00.0002.2D0C"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102017",
+        "@Street": "Sint-Janslaan 9 (KOR)",
+        "@Lat": "50.82585907",
+        "@Long": "3.271259069",
+        "@Function": "P30",
+        "$": "00.0002.075E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102018",
+        "@Street": "Sint-Janslaan 2 (KOR)",
+        "@Lat": "50.82595444",
+        "@Long": "3.271281958",
+        "@Function": "P30",
+        "$": "00.0002.2CC5"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102094",
+        "@Street": "Sint-Janslaan 2 (KOR)",
+        "@Lat": "50.82590866",
+        "@Long": "3.271273613",
+        "@Function": "P30",
+        "$": "00.0002.2CE8"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102019",
+        "@Street": "Zwevegemsestraat 1 (KOR)",
+        "@Lat": "50.82620621",
+        "@Long": "3.271973133",
+        "@Function": "P30",
+        "$": "00.0000.C209"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102020",
+        "@Street": "Zwevegemsestraat 4 (KOR)",
+        "@Lat": "50.82618713",
+        "@Long": "3.271868467",
+        "@Function": "P30",
+        "$": "00.0000.C225"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102021",
+        "@Street": "Zwevegemsestraat 4 (KOR)",
+        "@Lat": "50.82613754",
+        "@Long": "3.271885395",
+        "@Function": "P30",
+        "$": "00.0000.C22E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102022",
+        "@Street": "Zwevegemsestraat 42 (KOR)",
+        "@Lat": "50.8253479",
+        "@Long": "3.272174358",
+        "@Function": "P30",
+        "$": "00.0001.502E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102023",
+        "@Street": "Zwevegemsestraat 46 (KOR)",
+        "@Lat": "50.82526398",
+        "@Long": "3.272206545",
+        "@Function": "P30",
+        "$": "00.0000.C246"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102024",
+        "@Street": "Zwevegemsestraat 48 (KOR)",
+        "@Lat": "50.82520676",
+        "@Long": "3.272228003",
+        "@Function": "P30",
+        "$": "00.0001.4FEA"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102025",
+        "@Street": "Zwevegemsestraat 48 (KOR)",
+        "@Lat": "50.82516098",
+        "@Long": "3.272241354",
+        "@Function": "P30",
+        "$": "00.0001.5022"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102033",
+        "@Street": "Veemarkt 62 (KOR)",
+        "@Lat": "50.82637405",
+        "@Long": "3.274240971",
+        "@Function": "P30",
+        "$": "00.0001.5029"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102026",
+        "@Street": "Veemarkt 16 (KOR)",
+        "@Lat": "50.82629013",
+        "@Long": "3.272725105",
+        "@Function": "P30",
+        "$": "00.0000.BE57"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102027",
+        "@Street": "Veemarkt 16 (KOR)",
+        "@Lat": "50.82629776",
+        "@Long": "3.272810936",
+        "@Function": "P30",
+        "$": "00.0000.C0E9"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102028",
+        "@Street": "Veemarkt 18 (KOR)",
+        "@Lat": "50.82630157",
+        "@Long": "3.272890091",
+        "@Function": "P30",
+        "$": "00.0001.A5FE"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102029",
+        "@Street": "Veemarkt 18 (KOR)",
+        "@Lat": "50.82630539",
+        "@Long": "3.272973061",
+        "@Function": "P30",
+        "$": "00.0001.A812"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102030",
+        "@Street": "Veemarkt 20 (KOR)",
+        "@Lat": "50.82630539",
+        "@Long": "3.273034096",
+        "@Function": "P30",
+        "$": "00.0000.C0DE"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102031",
+        "@Street": "Veemarkt 24 (KOR)",
+        "@Lat": "50.8263092",
+        "@Long": "3.273133039",
+        "@Function": "P30",
+        "$": "00.0000.C0D9"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102032",
+        "@Street": "Veemarkt 60 (KOR)",
+        "@Lat": "50.82636261",
+        "@Long": "3.274070978",
+        "@Function": "P30",
+        "$": "00.0000.C0DA"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102034",
+        "@Street": "Veemarkt 66 (KOR)",
+        "@Lat": "50.8263855",
+        "@Long": "3.274394989",
+        "@Function": "P30",
+        "$": "00.0000.C0DB"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102035",
+        "@Street": "Veemarkt 66 (KOR)",
+        "@Lat": "50.82638168",
+        "@Long": "3.27449894",
+        "@Function": "P30",
+        "$": "00.0000.C0E3"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102036",
+        "@Street": "Veemarkt 80 (KOR)",
+        "@Lat": "50.82640076",
+        "@Long": "3.275151968",
+        "@Function": "P30",
+        "$": "00.0001.A854"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102037",
+        "@Street": "Veemarkt 84 (KOR)",
+        "@Lat": "50.82640839",
+        "@Long": "3.275219917",
+        "@Function": "P30",
+        "$": "00.0000.C33E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102038",
+        "@Street": "Groeningelaan 3 (KOR)",
+        "@Lat": "50.82705688",
+        "@Long": "3.27542901",
+        "@Function": "P30",
+        "$": "00.0001.C2E7"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102039",
+        "@Street": "Groeningelaan 3 (KOR)",
+        "@Lat": "50.82703781",
+        "@Long": "3.275512934",
+        "@Function": "P30",
+        "$": "00.0000.C243"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102040",
+        "@Street": "Groeningelaan 18 (KOR)",
+        "@Lat": "50.82701874",
+        "@Long": "3.275592089",
+        "@Function": "P30",
+        "$": "00.0001.C2C5"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102041",
+        "@Street": "Slachthuisstraat 21 (KOR)",
+        "@Lat": "50.82566452",
+        "@Long": "3.273989916",
+        "@Function": "P30",
+        "$": "00.0001.1DDA"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102042",
+        "@Street": "Groeningelaan 42B (KOR)",
+        "@Lat": "50.82778931",
+        "@Long": "3.275974989",
+        "@Function": "P30",
+        "$": "00.0001.1C8A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102043",
+        "@Street": "Groeningelaan 42B (KOR)",
+        "@Lat": "50.82780838",
+        "@Long": "3.275985003",
+        "@Function": "P30",
+        "$": "00.0001.1C97"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102044",
+        "@Street": "Groeningelaan 42B (KOR)",
+        "@Lat": "50.82784653",
+        "@Long": "3.27600503",
+        "@Function": "P30",
+        "$": "00.0001.1C7F"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102045",
+        "@Street": "Groeningelaan 42B (KOR)",
+        "@Lat": "50.8278656",
+        "@Long": "3.276015043",
+        "@Function": "P30",
+        "$": "00.0001.1C86"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102046",
+        "@Street": "Groeningelaan 42B (KOR)",
+        "@Lat": "50.82788467",
+        "@Long": "3.276025057",
+        "@Function": "P30",
+        "$": "00.0001.A84B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102047",
+        "@Street": "Groeningelaan 42B (KOR)",
+        "@Lat": "50.82790756",
+        "@Long": "3.27603507",
+        "@Function": "P30",
+        "$": "00.0001.A888"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102048",
+        "@Street": "Sint-Denijsestraat 53 (KOR)",
+        "@Lat": "50.82337189",
+        "@Long": "3.272408009",
+        "@Function": "P30",
+        "$": "00.0001.1DBA"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102049",
+        "@Street": "Sint-Denijsestraat 51 (KOR)",
+        "@Lat": "50.82341766",
+        "@Long": "3.272396088",
+        "@Function": "P30",
+        "$": "00.0001.1D99"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102050",
+        "@Street": "Sint-Denijsestraat 34 (KOR)",
+        "@Lat": "50.82346344",
+        "@Long": "3.272383928",
+        "@Function": "P30",
+        "$": "00.0001.1C92"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102051",
+        "@Street": "Pluimstraat 56 (KOR)",
+        "@Lat": "50.82508469",
+        "@Long": "3.274328947",
+        "@Function": "P30",
+        "$": "00.0001.7E9E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102052",
+        "@Street": "Pluimstraat 54 (KOR)",
+        "@Lat": "50.82507324",
+        "@Long": "3.274252892",
+        "@Function": "P30",
+        "$": "00.0001.7EBB"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102053",
+        "@Street": "Sint-Denijsestraat 6 (KOR)",
+        "@Lat": "50.82403564",
+        "@Long": "3.272547007",
+        "@Function": "P30",
+        "$": "00.0001.AA3F"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102054",
+        "@Street": "Veemarkt 66 (KOR)",
+        "@Lat": "50.82645798",
+        "@Long": "3.27443552",
+        "@Function": "P30",
+        "$": "00.0001.FA16"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102055",
+        "@Street": "Veemarkt 66 (KOR)",
+        "@Lat": "50.82645798",
+        "@Long": "3.274367094",
+        "@Function": "P30",
+        "$": "00.0001.FA1D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102056",
+        "@Street": "Veemarkt 66 (KOR)",
+        "@Lat": "50.82645416",
+        "@Long": "3.274302959",
+        "@Function": "BEWONERS",
+        "$": "00.0001.FA0B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102057",
+        "@Street": "Veemarkt 62 (KOR)",
+        "@Lat": "50.82645035",
+        "@Long": "3.274228096",
+        "@Function": "BEWONERS",
+        "$": "00.0001.FD92"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102058",
+        "@Street": "Veemarkt 62 (KOR)",
+        "@Lat": "50.82644653",
+        "@Long": "3.274166107",
+        "@Function": "BEWONERS",
+        "$": "00.0001.FD7D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102059",
+        "@Street": "Veemarkt 60 (KOR)",
+        "@Lat": "50.8264389",
+        "@Long": "3.274095535",
+        "@Function": "BEWONERS",
+        "$": "00.0001.FA2E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102060",
+        "@Street": "Veemarkt 58 (KOR)",
+        "@Lat": "50.82643509",
+        "@Long": "3.274008751",
+        "@Function": "BEWONERS",
+        "$": "00.0001.FD8A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102061",
+        "@Street": "Veemarkt 58 (KOR)",
+        "@Lat": "50.82643509",
+        "@Long": "3.273938417",
+        "@Function": "BEWONERS",
+        "$": "00.0001.FD85"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102062",
+        "@Street": "Veemarkt 58 (KOR)",
+        "@Lat": "50.82643127",
+        "@Long": "3.273889065",
+        "@Function": "BEWONERS",
+        "$": "00.0001.FA1E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102063",
+        "@Street": "Veemarkt 52 (KOR)",
+        "@Lat": "50.82643127",
+        "@Long": "3.273837805",
+        "@Function": "BEWONERS",
+        "$": "00.0001.FA30"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102064",
+        "@Street": "Veemarkt 52 (KOR)",
+        "@Lat": "50.82643127",
+        "@Long": "3.273776293",
+        "@Function": "BEWONERS",
+        "$": "00.0001.FD7E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102065",
+        "@Street": "Veemarkt 52 (KOR)",
+        "@Lat": "50.82642746",
+        "@Long": "3.273710012",
+        "@Function": "BEWONERS",
+        "$": "00.0001.FD88"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102066",
+        "@Street": "Veemarkt 16 (KOR)",
+        "@Lat": "50.8263855",
+        "@Long": "3.272791386",
+        "@Function": "P30",
+        "$": "00.0001.FD89"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102067",
+        "@Street": "Veemarkt 18 (KOR)",
+        "@Lat": "50.8263855",
+        "@Long": "3.27287674",
+        "@Function": "P30",
+        "$": "00.0001.FA2C"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102068",
+        "@Street": "Veemarkt 18 (KOR)",
+        "@Lat": "50.8263855",
+        "@Long": "3.272948742",
+        "@Function": "P30",
+        "$": "00.0001.FD8B"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102069",
+        "@Street": "Veemarkt 20 (KOR)",
+        "@Lat": "50.82639313",
+        "@Long": "3.273027182",
+        "@Function": "P30",
+        "$": "00.0001.FA1C"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102070",
+        "@Street": "Veemarkt 22 (KOR)",
+        "@Lat": "50.82640076",
+        "@Long": "3.273117781",
+        "@Function": "P30",
+        "$": "00.0001.FD8F"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102071",
+        "@Street": "Veemarkt 24 (KOR)",
+        "@Lat": "50.82640076",
+        "@Long": "3.27320981",
+        "@Function": "P30",
+        "$": "00.0001.FA2F"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102072",
+        "@Street": "Groeningelaan 22 (KOR)",
+        "@Lat": "50.82720947",
+        "@Long": "3.275740385",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0482"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102073",
+        "@Street": "Groeningelaan 22 (KOR)",
+        "@Lat": "50.82723618",
+        "@Long": "3.275750637",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0475"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102074",
+        "@Street": "Groeningelaan 30 (KOR)",
+        "@Lat": "50.82727432",
+        "@Long": "3.275764942",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0554"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102075",
+        "@Street": "Groeningelaan 30 (KOR)",
+        "@Lat": "50.82730103",
+        "@Long": "3.275775671",
+        "@Function": "BEWONERS",
+        "$": "00.0002.054C"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102076",
+        "@Street": "Groeningelaan 32 (KOR)",
+        "@Lat": "50.82734299",
+        "@Long": "3.275793314",
+        "@Function": "BEWONERS",
+        "$": "00.0002.1F81"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102077",
+        "@Street": "Groeningelaan 30 (KOR)",
+        "@Lat": "50.82732391",
+        "@Long": "3.275784731",
+        "@Function": "BEWONERS",
+        "$": "00.0002.1F80"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102078",
+        "@Street": "Groeningelaan 34 (KOR)",
+        "@Lat": "50.82736588",
+        "@Long": "3.275802612",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0560"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102079",
+        "@Street": "Groeningelaan 34 (KOR)",
+        "@Lat": "50.82738876",
+        "@Long": "3.275810957",
+        "@Function": "BEWONERS",
+        "$": "00.0002.159E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102080",
+        "@Street": "Groeningelaan 34 (KOR)",
+        "@Lat": "50.82740402",
+        "@Long": "3.275817871",
+        "@Function": "BEWONERS",
+        "$": "00.0002.055A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102081",
+        "@Street": "Groeningelaan 40 (KOR)",
+        "@Lat": "50.82743073",
+        "@Long": "3.2758286",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0555"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102082",
+        "@Street": "Groeningelaan 40 (KOR)",
+        "@Lat": "50.8274498",
+        "@Long": "3.275836706",
+        "@Function": "BEWONERS",
+        "$": "00.0002.055E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102083",
+        "@Street": "Groeningelaan 40 (KOR)",
+        "@Lat": "50.8274765",
+        "@Long": "3.275847197",
+        "@Function": "BEWONERS",
+        "$": "00.0002.054E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102084",
+        "@Street": "Groeningelaan 40 (KOR)",
+        "@Lat": "50.82749557",
+        "@Long": "3.275855303",
+        "@Function": "BEWONERS",
+        "$": "00.0002.1F7A"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102085",
+        "@Street": "Groeningelaan 42 (KOR)",
+        "@Lat": "50.82752228",
+        "@Long": "3.275865316",
+        "@Function": "BEWONERS",
+        "$": "00.0002.15AD"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102086",
+        "@Street": "Groeningelaan 42 (KOR)",
+        "@Lat": "50.82754898",
+        "@Long": "3.27587676",
+        "@Function": "BEWONERS",
+        "$": "00.0002.1F84"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102087",
+        "@Street": "Groeningelaan 42 (KOR)",
+        "@Lat": "50.82757187",
+        "@Long": "3.275886059",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0548"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102088",
+        "@Street": "Groeningelaan 42A (KOR)",
+        "@Lat": "50.82759857",
+        "@Long": "3.275897264",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0550"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102089",
+        "@Street": "Groeningelaan 42A (KOR)",
+        "@Lat": "50.82761765",
+        "@Long": "3.275906801",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0559"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102090",
+        "@Street": "Groeningelaan 42A (KOR)",
+        "@Lat": "50.82764435",
+        "@Long": "3.275922775",
+        "@Function": "BEWONERS",
+        "$": "00.0002.1FB6"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102091",
+        "@Street": "Groeningelaan 42A (KOR)",
+        "@Lat": "50.82766342",
+        "@Long": "3.275930882",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0549"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102092",
+        "@Street": "Groeningelaan 42A (KOR)",
+        "@Lat": "50.8276825",
+        "@Long": "3.275939941",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0541"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102093",
+        "@Street": "Groeningelaan 42A (KOR)",
+        "@Lat": "50.82770157",
+        "@Long": "3.275947094",
+        "@Function": "BEWONERS",
+        "$": "00.0002.1F8C"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103001",
+        "@Street": "Potterijstraat 7 (KOR)",
+        "@Lat": "50.82727432",
+        "@Long": "3.272504091",
+        "@Function": "P30",
+        "$": "00.0000.C217"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103002",
+        "@Street": "Potterijstraat 7 (KOR)",
+        "@Lat": "50.82731628",
+        "@Long": "3.272531033",
+        "@Function": "P30",
+        "$": "00.0000.C220"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103003",
+        "@Street": "Potterijstraat 7 (KOR)",
+        "@Lat": "50.82738495",
+        "@Long": "3.272562981",
+        "@Function": "P30",
+        "$": "00.0000.C21E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103004",
+        "@Street": "Potterijstraat 7 (KOR)",
+        "@Lat": "50.8274498",
+        "@Long": "3.272593021",
+        "@Function": "P30",
+        "$": "00.0000.C20B"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103005",
+        "@Street": "Romeinselaan 13 (KOR)",
+        "@Lat": "50.8272171",
+        "@Long": "3.27263093",
+        "@Function": "P30",
+        "$": "00.0001.4FE8"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103006",
+        "@Street": "Romeinselaan 13 (KOR)",
+        "@Lat": "50.82725143",
+        "@Long": "3.27264595",
+        "@Function": "P30",
+        "$": "00.0001.5001"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103007",
+        "@Street": "Romeinselaan 13 (KOR)",
+        "@Lat": "50.82728577",
+        "@Long": "3.272660971",
+        "@Function": "P30",
+        "$": "00.0001.4FE9"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103008",
+        "@Street": "Plein 33 (KOR)",
+        "@Lat": "50.82866287",
+        "@Long": "3.272659779",
+        "@Function": "P30",
+        "$": "00.0002.2D03"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103009",
+        "@Street": "Plein 36 (KOR)",
+        "@Lat": "50.82871628",
+        "@Long": "3.272592783",
+        "@Function": "P30",
+        "$": "00.0001.4599"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103010",
+        "@Street": "Plein 36 (KOR)",
+        "@Lat": "50.8287735",
+        "@Long": "3.272522926",
+        "@Function": "P30",
+        "$": "00.0001.A81C"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103012",
+        "@Street": "Plein 20 (KOR)",
+        "@Lat": "50.82966232",
+        "@Long": "3.273775578",
+        "@Function": "P30",
+        "$": "00.0001.2861"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103014",
+        "@Street": "Plein 20 (KOR)",
+        "@Lat": "50.82972336",
+        "@Long": "3.273821115",
+        "@Function": "P30",
+        "$": "00.0001.A87E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103015",
+        "@Street": "Plein 20 (KOR)",
+        "@Lat": "50.82975769",
+        "@Long": "3.273844957",
+        "@Function": "P30",
+        "$": "00.0001.2892"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103017",
+        "@Street": "Plein 15 (KOR)",
+        "@Lat": "50.82997894",
+        "@Long": "3.273349047",
+        "@Function": "P30",
+        "$": "00.0000.C2F7"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103018",
+        "@Street": "Plein 100 (KOR)",
+        "@Lat": "50.82998276",
+        "@Long": "3.273266077",
+        "@Function": "P30",
+        "$": "00.0001.A817"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103019",
+        "@Street": "Plein 100 (KOR)",
+        "@Lat": "50.82998276",
+        "@Long": "3.273188114",
+        "@Function": "P30",
+        "$": "00.0001.AA26"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103020",
+        "@Street": "Vaartstraat 2 (KOR)",
+        "@Lat": "50.8299675",
+        "@Long": "3.274151087",
+        "@Function": "P30",
+        "$": "00.0000.C2F8"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103021",
+        "@Street": "Vaartstraat 2 (KOR)",
+        "@Lat": "50.82995605",
+        "@Long": "3.27423501",
+        "@Function": "P30",
+        "$": "00.0000.C322"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103022",
+        "@Street": "Gentsestraat 12 (KOR)",
+        "@Lat": "50.83034897",
+        "@Long": "3.274473906",
+        "@Function": "P30",
+        "$": "00.0000.C304"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103023",
+        "@Street": "Vestingsstraat 2 (KOR)",
+        "@Lat": "50.83032227",
+        "@Long": "3.274533033",
+        "@Function": "P30",
+        "$": "00.0000.C2CF"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103024",
+        "@Street": "Vestingsstraat 4 (KOR)",
+        "@Lat": "50.83029938",
+        "@Long": "3.274597406",
+        "@Function": "P30",
+        "$": "00.0000.C2FB"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103025",
+        "@Street": "Vestingsstraat 4 (KOR)",
+        "@Lat": "50.83027649",
+        "@Long": "3.274659157",
+        "@Function": "P30",
+        "$": "00.0001.A878"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103027",
+        "@Street": "Gentsestraat 10 (KOR)",
+        "@Lat": "50.83028793",
+        "@Long": "3.274172068",
+        "@Function": "P30",
+        "$": "00.0000.C323"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103028",
+        "@Street": "Gentsestraat 7 (KOR)",
+        "@Lat": "50.83035278",
+        "@Long": "3.27422595",
+        "@Function": "P30",
+        "$": "00.0000.C2D4"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103035",
+        "@Street": "Harelbeeksestraat 29 (KOR)",
+        "@Lat": "50.83056641",
+        "@Long": "3.275908947",
+        "@Function": "P30",
+        "$": "00.0001.1DB9"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103036",
+        "@Street": "Vestingsstraat 12 (KOR)",
+        "@Lat": "50.8302002",
+        "@Long": "3.274842501",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2847"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103037",
+        "@Street": "Vestingsstraat 10 (KOR)",
+        "@Lat": "50.83022308",
+        "@Long": "3.274778128",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2880"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103038",
+        "@Street": "Vestingsstraat 10 (KOR)",
+        "@Lat": "50.83024979",
+        "@Long": "3.27471447",
+        "@Function": "BEWONERS",
+        "$": "00.0001.C24F"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103039",
+        "@Street": "Vaartstraat 16 (KOR)",
+        "@Lat": "50.82989883",
+        "@Long": "3.274605036",
+        "@Function": "BEWONERS",
+        "$": "00.0001.283B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103040",
+        "@Street": "Vaartstraat 12 (KOR)",
+        "@Lat": "50.82991409",
+        "@Long": "3.2745049",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2884"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103041",
+        "@Street": "Vaartstraat 10 (KOR)",
+        "@Lat": "50.82992935",
+        "@Long": "3.274405003",
+        "@Function": "BEWONERS",
+        "$": "00.0001.288C"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103042",
+        "@Street": "Vaartstraat 8 (KOR)",
+        "@Lat": "50.82994461",
+        "@Long": "3.274305105",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2890"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103043",
+        "@Street": "Groeningelaan 21 (KOR)",
+        "@Lat": "50.82997513",
+        "@Long": "3.275217056",
+        "@Function": "BEWONERS",
+        "$": "00.0001.1C9B"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "103044",
+        "@Street": "Groeningelaan 21 (KOR)",
+        "@Lat": "50.82992935",
+        "@Long": "3.275243998",
+        "@Function": "BEWONERS",
+        "$": "00.0001.1C7D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103045",
+        "@Street": "Groeningelaan 19 (KOR)",
+        "@Lat": "50.82988358",
+        "@Long": "3.275270939",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2896"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103046",
+        "@Street": "Groeningelaan 19 (KOR)",
+        "@Lat": "50.82983398",
+        "@Long": "3.275298119",
+        "@Function": "BEWONERS",
+        "$": "00.0001.283C"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103048",
+        "@Street": "Groeningelaan 11 (KOR)",
+        "@Lat": "50.82958984",
+        "@Long": "3.275425911",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2845"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "103049",
+        "@Street": "Groeningelaan 11 (KOR)",
+        "@Lat": "50.8295517",
+        "@Long": "3.275446892",
+        "@Function": "BEWONERS",
+        "$": "00.0001.283E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103050",
+        "@Street": "Groeningelaan 11 (KOR)",
+        "@Lat": "50.82950974",
+        "@Long": "3.275468111",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2873"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103051",
+        "@Street": "Groeningelaan 9A (KOR)",
+        "@Lat": "50.82941055",
+        "@Long": "3.275517941",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2883"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103052",
+        "@Street": "Groeningelaan 9 (KOR)",
+        "@Lat": "50.82922363",
+        "@Long": "3.275638103",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2839"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103053",
+        "@Street": "Groeningelaan 9 (KOR)",
+        "@Lat": "50.82918167",
+        "@Long": "3.275660992",
+        "@Function": "BEWONERS",
+        "$": "00.0001.288E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103054",
+        "@Street": "Plein 49 (KOR)",
+        "@Lat": "50.82946014",
+        "@Long": "3.271750927",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2866"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103055",
+        "@Street": "Plein 49 (KOR)",
+        "@Lat": "50.82950974",
+        "@Long": "3.271693945",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2867"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103056",
+        "@Street": "Plein 52 (KOR)",
+        "@Lat": "50.82955551",
+        "@Long": "3.271637917",
+        "@Function": "BEWONERS",
+        "$": "00.0001.286D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103057",
+        "@Street": "Plein 53 (KOR)",
+        "@Lat": "50.82960129",
+        "@Long": "3.271580935",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2872"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103058",
+        "@Street": "Plein 54 (KOR)",
+        "@Lat": "50.82965088",
+        "@Long": "3.271524906",
+        "@Function": "BEWONERS",
+        "$": "00.0001.286C"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103059",
+        "@Street": "Plein 56 (KOR)",
+        "@Lat": "50.82971573",
+        "@Long": "3.271445036",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2864"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103060",
+        "@Street": "Plein 13A (KOR)",
+        "@Lat": "50.82997894",
+        "@Long": "3.271836042",
+        "@Function": "P30",
+        "$": "00.0001.64E6"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103061",
+        "@Street": "Plein 13A (KOR)",
+        "@Lat": "50.82998276",
+        "@Long": "3.27176404",
+        "@Function": "P30",
+        "$": "00.0001.1C4A"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103062",
+        "@Street": "Plein 13A (KOR)",
+        "@Lat": "50.82998276",
+        "@Long": "3.271692038",
+        "@Function": "P30",
+        "$": "00.0001.1C4C"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103063",
+        "@Street": "Houtmarkt 20 (KOR)",
+        "@Lat": "50.82941818",
+        "@Long": "3.271092892",
+        "@Function": "P30",
+        "$": "00.0001.7E7E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103064",
+        "@Street": "Houtmarkt 20 (KOR)",
+        "@Lat": "50.82938385",
+        "@Long": "3.27114296",
+        "@Function": "P30",
+        "$": "00.0001.7E25"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103065",
+        "@Street": "Houtmarkt 20 (KOR)",
+        "@Lat": "50.82934952",
+        "@Long": "3.271178961",
+        "@Function": "P30",
+        "$": "00.0001.7ED4"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103066",
+        "@Street": "Houtmarkt 20 (KOR)",
+        "@Lat": "50.82931137",
+        "@Long": "3.271234035",
+        "@Function": "P30",
+        "$": "00.0001.7D3D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103067",
+        "@Street": "Houtmarkt 23 (KOR)",
+        "@Lat": "50.82927704",
+        "@Long": "3.271276951",
+        "@Function": "P30",
+        "$": "00.0001.7E69"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103068",
+        "@Street": "Groeningelaan 21 (KOR)",
+        "@Lat": "50.83004761",
+        "@Long": "3.275187016",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A838"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103069",
+        "@Street": "Harelbeeksestraat 19 (KOR)",
+        "@Lat": "50.83069992",
+        "@Long": "3.275152445",
+        "@Function": "P30",
+        "$": "00.0002.15FB"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103070",
+        "@Street": "Vaartstraat 60 (KOR)",
+        "@Lat": "50.83082581",
+        "@Long": "3.276745319",
+        "@Function": "P30",
+        "$": "00.0002.0467"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "110001",
+        "@Street": "Bellegemsestraat 2 (MAR)",
+        "@Lat": "50.77772903",
+        "@Long": "3.280009985",
+        "@Function": "P30",
+        "$": "00.0002.071F"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "110002",
+        "@Street": "Bellegemsestraat 2 (MAR)",
+        "@Lat": "50.77772903",
+        "@Long": "3.280035257",
+        "@Function": "P30",
+        "$": "00.0002.076A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "110003",
+        "@Street": "Bellegemsestraat 2 (MAR)",
+        "@Lat": "50.77772903",
+        "@Long": "3.280060053",
+        "@Function": "P30",
+        "$": "00.0002.085B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "110004",
+        "@Street": "Bellegemsestraat 14 (MAR)",
+        "@Lat": "50.777771",
+        "@Long": "3.281120062",
+        "@Function": "P30",
+        "$": "00.0001.1441"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "110005",
+        "@Street": "Bellegemsestraat 16 (MAR)",
+        "@Lat": "50.77775955",
+        "@Long": "3.281219959",
+        "@Function": "P30",
+        "$": "00.0001.4BC7"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "111004",
+        "@Street": "Izegemsestraat 199 (HEU)",
+        "@Lat": "50.84208679",
+        "@Long": "3.256742239",
+        "@Function": "P30",
+        "$": "00.0000.D14E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "111005",
+        "@Street": "Izegemsestraat 199 (HEU)",
+        "@Lat": "50.84209442",
+        "@Long": "3.256785154",
+        "@Function": "P30",
+        "$": "00.0000.D132"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "111006",
+        "@Street": "Izegemsestraat 199 (HEU)",
+        "@Lat": "50.84209824",
+        "@Long": "3.2568295",
+        "@Function": "P30",
+        "$": "00.0000.D15F"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "111007",
+        "@Street": "Izegemsestraat 199 (HEU)",
+        "@Lat": "50.84210587",
+        "@Long": "3.256869555",
+        "@Function": "P30",
+        "$": "00.0000.D15D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "111008",
+        "@Street": "Izegemsestraat 199 (HEU)",
+        "@Lat": "50.84210968",
+        "@Long": "3.256910086",
+        "@Function": "P30",
+        "$": "00.0000.D11D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "111009",
+        "@Street": "Izegemsestraat 201 (HEU)",
+        "@Lat": "50.84211349",
+        "@Long": "3.256954193",
+        "@Function": "P30",
+        "$": "00.0000.D11C"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "111010",
+        "@Street": "Izegemsestraat 155 (HEU)",
+        "@Lat": "50.84050369",
+        "@Long": "3.25700593",
+        "@Function": "P30",
+        "$": "00.0000.C2E1"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "111011",
+        "@Street": "Izegemsestraat 157 (HEU)",
+        "@Lat": "50.84054565",
+        "@Long": "3.256999969",
+        "@Function": "P30",
+        "$": "00.0001.BE6C"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "111012",
+        "@Street": "Izegemsestraat 157 (HEU)",
+        "@Lat": "50.84058762",
+        "@Long": "3.256997108",
+        "@Function": "P30",
+        "$": "00.0000.D12F"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "111013",
+        "@Street": "Izegemsestraat 129 (HEU)",
+        "@Lat": "50.83969879",
+        "@Long": "3.256946087",
+        "@Function": "P30",
+        "$": "00.0000.C2EB"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "111014",
+        "@Street": "Izegemsestraat 129 (HEU)",
+        "@Lat": "50.83970642",
+        "@Long": "3.256980896",
+        "@Function": "P30",
+        "$": "00.0001.FA21"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "111015",
+        "@Street": "Izegemsestraat 129 (HEU)",
+        "@Lat": "50.83971024",
+        "@Long": "3.257015944",
+        "@Function": "P30",
+        "$": "00.0002.2045"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "114001",
+        "@Street": "Kloosterstraat 1 (MAR)",
+        "@Lat": "50.8069191",
+        "@Long": "3.23409009",
+        "@Function": "P30",
+        "$": "00.0000.C780"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "114002",
+        "@Street": "Kloosterstraat 3 (MAR)",
+        "@Lat": "50.80686951",
+        "@Long": "3.23416996",
+        "@Function": "P30",
+        "$": "00.0001.A7E7"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "114007",
+        "@Street": "Markeplaats 9 (MAR)",
+        "@Lat": "50.80694962",
+        "@Long": "3.233439922",
+        "@Function": "P30",
+        "$": "00.0001.A840"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "114008",
+        "@Street": "Markeplaats 9 (MAR)",
+        "@Lat": "50.80691147",
+        "@Long": "3.233409882",
+        "@Function": "P30",
+        "$": "00.0000.C36B"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "114009",
+        "@Street": "Marktstraat 10 (MAR)",
+        "@Lat": "50.80744934",
+        "@Long": "3.234124899",
+        "@Function": "P30",
+        "$": "00.0001.C252"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "114015",
+        "@Street": "Rekkemsestraat 95 (MAR)",
+        "@Lat": "50.80918884",
+        "@Long": "3.230042934",
+        "@Function": "P30",
+        "$": "00.0000.C34F"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "114016",
+        "@Street": "Rekkemsestraat 95 (MAR)",
+        "@Lat": "50.80915451",
+        "@Long": "3.230093956",
+        "@Function": "P30",
+        "$": "00.0000.C2D1"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "114019",
+        "@Street": "Markekerkstraat 42 (MAR)",
+        "@Lat": "50.8085289",
+        "@Long": "3.231044769",
+        "@Function": "P30",
+        "$": "00.0001.4FE6"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "114020",
+        "@Street": "Markekerkstraat 42 (MAR)",
+        "@Lat": "50.80849838",
+        "@Long": "3.231087208",
+        "@Function": "P30",
+        "$": "00.0001.4FEC"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "114021",
+        "@Street": "Markekerkstraat 28 (MAR)",
+        "@Lat": "50.80815506",
+        "@Long": "3.231585979",
+        "@Function": "P30",
+        "$": "00.0001.4FEE"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "114022",
+        "@Street": "Markekerkstraat 28 (MAR)",
+        "@Lat": "50.80813217",
+        "@Long": "3.231626987",
+        "@Function": "P30",
+        "$": "00.0001.4FEF"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "114023",
+        "@Street": "Kloosterstraat 64 (MAR)",
+        "@Lat": "50.80541229",
+        "@Long": "3.236660004",
+        "@Function": "P30",
+        "$": "00.0002.0D0B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "114024",
+        "@Street": "Kloosterstraat 64 (MAR)",
+        "@Lat": "50.80543518",
+        "@Long": "3.236690521",
+        "@Function": "P30",
+        "$": "00.0002.15F2"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "114025",
+        "@Street": "Hemelrijkstraat 2 (MAR)",
+        "@Lat": "50.80879593",
+        "@Long": "3.234460115",
+        "@Function": "P30",
+        "$": "00.0002.052D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "114026",
+        "@Street": "Hemelrijkstraat 6 (MAR)",
+        "@Lat": "50.80886459",
+        "@Long": "3.234206915",
+        "@Function": "P30",
+        "$": "00.0002.15C2"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "114027",
+        "@Street": "Hemelrijkstraat 19 (MAR)",
+        "@Lat": "50.80917358",
+        "@Long": "3.233163118",
+        "@Function": "P30",
+        "$": "00.0001.C281"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124001",
+        "@Street": "Brugsestraat 82 (KOR)",
+        "@Lat": "50.83519363",
+        "@Long": "3.261596918",
+        "@Function": "P30",
+        "$": "00.0000.C333"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124002",
+        "@Street": "Brugsestraat 82 (KOR)",
+        "@Lat": "50.83520889",
+        "@Long": "3.261658907",
+        "@Function": "P30",
+        "$": "00.0001.A7FE"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124003",
+        "@Street": "Brugsestraat 84 (KOR)",
+        "@Lat": "50.83522415",
+        "@Long": "3.261734009",
+        "@Function": "P30",
+        "$": "00.0000.C32B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124004",
+        "@Street": "Brugsestraat 90 (KOR)",
+        "@Lat": "50.83523941",
+        "@Long": "3.261787891",
+        "@Function": "P30",
+        "$": "00.0001.A5C9"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124005",
+        "@Street": "Proosdijstraat 78 (KOR)",
+        "@Lat": "50.83488464",
+        "@Long": "3.260601997",
+        "@Function": "P30",
+        "$": "00.0000.C35B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124006",
+        "@Street": "Proosdijstraat 78 (KOR)",
+        "@Lat": "50.83485413",
+        "@Long": "3.26066494",
+        "@Function": "P30",
+        "$": "00.0000.C365"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124007",
+        "@Street": "Brugsesteenweg 13 (KOR)",
+        "@Lat": "50.83582306",
+        "@Long": "3.262058973",
+        "@Function": "P30",
+        "$": "00.0001.1DCC"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124008",
+        "@Street": "Brugsesteenweg 17 (KOR)",
+        "@Lat": "50.83588409",
+        "@Long": "3.262058973",
+        "@Function": "P30",
+        "$": "00.0001.1DA7"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124009",
+        "@Street": "Brugsesteenweg 76 (KOR)",
+        "@Lat": "50.83831024",
+        "@Long": "3.262830019",
+        "@Function": "P30",
+        "$": "00.0001.1DE8"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "124010",
+        "@Street": "Brugsesteenweg 76 (KOR)",
+        "@Lat": "50.83833694",
+        "@Long": "3.262851",
+        "@Function": "P30",
+        "$": "00.0001.1DF1"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124011",
+        "@Street": "Brugsesteenweg 46 (KOR)",
+        "@Lat": "50.83733749",
+        "@Long": "3.262283087",
+        "@Function": "P30",
+        "$": "00.0001.2871"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124012",
+        "@Street": "Brugsesteenweg 46 (KOR)",
+        "@Lat": "50.83728027",
+        "@Long": "3.262254953",
+        "@Function": "P30",
+        "$": "00.0001.2865"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124013",
+        "@Street": "Brugsesteenweg 80 (KOR)",
+        "@Lat": "50.83853149",
+        "@Long": "3.262995958",
+        "@Function": "P30",
+        "$": "00.0001.287E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124014",
+        "@Street": "Brugsesteenweg 80 (KOR)",
+        "@Lat": "50.83850098",
+        "@Long": "3.262972116",
+        "@Function": "P30",
+        "$": "00.0001.285B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124015",
+        "@Street": "Burgemeester Vercruysselaan 21 (KOR)",
+        "@Lat": "50.83551407",
+        "@Long": "3.26308465",
+        "@Function": "BEWONERS",
+        "$": "00.0002.1F92"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "124016",
+        "@Street": "Burgemeester Vercruysselaan 23 (KOR)",
+        "@Lat": "50.83549881",
+        "@Long": "3.263015985",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0552"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124017",
+        "@Street": "Burgemeester Vercruysselaan 25 (KOR)",
+        "@Lat": "50.83548355",
+        "@Long": "3.262943983",
+        "@Function": "BEWONERS",
+        "$": "00.0002.05B3"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "124018",
+        "@Street": "Burgemeester Vercruysselaan 27 (KOR)",
+        "@Lat": "50.83547211",
+        "@Long": "3.262861013",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0489"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "124019",
+        "@Street": "Burgemeester Vercruysselaan 27 (KOR)",
+        "@Lat": "50.83545303",
+        "@Long": "3.262795687",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0496"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "124020",
+        "@Street": "Proosdijstraat 78 (KOR)",
+        "@Lat": "50.83481979",
+        "@Long": "3.260722637",
+        "@Function": "BEWONERS",
+        "$": "00.0002.04E2"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124021",
+        "@Street": "Proosdijstraat 74 (KOR)",
+        "@Lat": "50.83478928",
+        "@Long": "3.260781527",
+        "@Function": "BEWONERS",
+        "$": "00.0002.054F"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124022",
+        "@Street": "Proosdijstraat 64 (KOR)",
+        "@Lat": "50.83467865",
+        "@Long": "3.260997534",
+        "@Function": "BEWONERS",
+        "$": "00.0001.BAA7"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124023",
+        "@Street": "Proosdijstraat 58 (KOR)",
+        "@Lat": "50.83462906",
+        "@Long": "3.261094093",
+        "@Function": "BEWONERS",
+        "$": "00.0002.047E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124024",
+        "@Street": "Proosdijstraat 58 (KOR)",
+        "@Lat": "50.83460236",
+        "@Long": "3.261149168",
+        "@Function": "BEWONERS",
+        "$": "00.0002.0564"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124025",
+        "@Street": "Proosdijstraat 56 (KOR)",
+        "@Lat": "50.83456039",
+        "@Long": "3.261218786",
+        "@Function": "BEWONERS",
+        "$": "00.0002.1F82"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124026",
+        "@Street": "Proosdijstraat 46 (KOR)",
+        "@Lat": "50.83452606",
+        "@Long": "3.261283159",
+        "@Function": "BEWONERS",
+        "$": "00.0001.BA80"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124027",
+        "@Street": "Proosdijstraat 46 (KOR)",
+        "@Lat": "50.83449554",
+        "@Long": "3.261351585",
+        "@Function": "BEWONERS",
+        "$": "00.0002.1FB7"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "124028",
+        "@Street": "Proosdijstraat 42 (KOR)",
+        "@Lat": "50.83445358",
+        "@Long": "3.261435986",
+        "@Function": "BEWONERS",
+        "$": "00.0002.1F9C"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "125001",
+        "@Street": "Heulsestraat 93 (BIS)",
+        "@Lat": "50.82769775",
+        "@Long": "3.229262114",
+        "@Function": "P30",
+        "$": "00.0001.283A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "125002",
+        "@Street": "Heulsestraat 93 (BIS)",
+        "@Lat": "50.82766724",
+        "@Long": "3.229264021",
+        "@Function": "P30",
+        "$": "00.0001.288F"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "126001",
+        "@Street": "Stasegemsestraat 147 (KOR)",
+        "@Lat": "50.83148956",
+        "@Long": "3.282286882",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2860"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "126002",
+        "@Street": "Stasegemsestraat 147 (KOR)",
+        "@Lat": "50.83150864",
+        "@Long": "3.282291889",
+        "@Function": "BEWONERS",
+        "$": "00.0001.287A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "126003",
+        "@Street": "Stasegemsestraat 147 (KOR)",
+        "@Lat": "50.83153152",
+        "@Long": "3.282295942",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2879"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "126004",
+        "@Street": "Stasegemsestraat 151 (KOR)",
+        "@Lat": "50.83155441",
+        "@Long": "3.282300949",
+        "@Function": "BEWONERS",
+        "$": "00.0001.285F"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "126005",
+        "@Street": "Stasegemsestraat 151 (KOR)",
+        "@Lat": "50.83157349",
+        "@Long": "3.282305956",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2862"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "126006",
+        "@Street": "Stasegemsestraat 155 (KOR)",
+        "@Lat": "50.83155823",
+        "@Long": "3.282450914",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2841"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "126007",
+        "@Street": "Stasegemsestraat 157 (KOR)",
+        "@Lat": "50.83154678",
+        "@Long": "3.282500982",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2894"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "126008",
+        "@Street": "Stasegemsestraat 159 (KOR)",
+        "@Lat": "50.83153915",
+        "@Long": "3.282552004",
+        "@Function": "BEWONERS",
+        "$": "00.0001.283F"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "126009",
+        "@Street": "Stasegemsestraat 161 (KOR)",
+        "@Lat": "50.83152771",
+        "@Long": "3.282602072",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2851"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "126010",
+        "@Street": "Stasegemsestraat 163 (KOR)",
+        "@Lat": "50.83151627",
+        "@Long": "3.282651901",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2869"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "126011",
+        "@Street": "Stasegemsestraat 165 (KOR)",
+        "@Lat": "50.83151627",
+        "@Long": "3.282705069",
+        "@Function": "BEWONERS",
+        "$": "00.0001.2836"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "127001",
+        "@Street": "Minister Liebaertlaan 61 (KOR)",
+        "@Lat": "50.83362198",
+        "@Long": "3.271692038",
+        "@Function": "P30",
+        "$": "00.0001.A885"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "127002",
+        "@Street": "Minister Liebaertlaan 70 (KOR)",
+        "@Lat": "50.83368301",
+        "@Long": "3.271866083",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A5C7"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "127003",
+        "@Street": "Minister Liebaertlaan 68 (KOR)",
+        "@Lat": "50.8335762",
+        "@Long": "3.271979094",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A5D2"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "127004",
+        "@Street": "Minister Liebaertlaan 60 (KOR)",
+        "@Lat": "50.83347321",
+        "@Long": "3.272098064",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A58B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "127005",
+        "@Street": "Minister Liebaertlaan 58 (KOR)",
+        "@Lat": "50.83343124",
+        "@Long": "3.272141933",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A57F"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "127006",
+        "@Street": "Minister Liebaertlaan 58 (KOR)",
+        "@Lat": "50.8333931",
+        "@Long": "3.272188902",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A5BD"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "128001",
+        "@Street": "Jan Breydellaan 46 (KOR)",
+        "@Lat": "50.82843399",
+        "@Long": "3.280883074",
+        "@Function": "P30",
+        "$": "00.0001.BE75"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "128002",
+        "@Street": "Jan Breydellaan 46 (KOR)",
+        "@Lat": "50.82840729",
+        "@Long": "3.280816078",
+        "@Function": "P30",
+        "$": "00.0001.1DA0"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "128003",
+        "@Street": "Sint-Jansplein 14 (KOR)",
+        "@Lat": "50.82941818",
+        "@Long": "3.281802893",
+        "@Function": "P30",
+        "$": "00.0001.2863"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "128004",
+        "@Street": "Sint-Jansplein 14 (KOR)",
+        "@Lat": "50.82939529",
+        "@Long": "3.281903028",
+        "@Function": "P30",
+        "$": "00.0002.204E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "128005",
+        "@Street": "Sint-Jansplein 14 (KOR)",
+        "@Lat": "50.82937241",
+        "@Long": "3.282002926",
+        "@Function": "P30",
+        "$": "00.0001.285E"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "128006",
+        "@Street": "Sint-Jansplein 14 (KOR)",
+        "@Lat": "50.82934952",
+        "@Long": "3.282102108",
+        "@Function": "P30",
+        "$": "00.0001.2852"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "139001",
+        "@Street": "Nieuwstraat 13 (KOR)",
+        "@Lat": "50.82543945",
+        "@Long": "3.269484043",
+        "@Function": "P30",
+        "$": "00.0001.A65B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "139002",
+        "@Street": "Nieuwstraat 15 (KOR)",
+        "@Lat": "50.82539749",
+        "@Long": "3.269490004",
+        "@Function": "P30",
+        "$": "00.0001.A64B"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "139003",
+        "@Street": "Nieuwstraat 15 (KOR)",
+        "@Lat": "50.8253479",
+        "@Long": "3.269494057",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A8A4"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "139004",
+        "@Street": "Nieuwstraat 17 (KOR)",
+        "@Lat": "50.82529449",
+        "@Long": "3.269496918",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A672"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "141001",
+        "@Street": "Kuurnsesteenweg 112 (KOR)",
+        "@Lat": "50.84257507",
+        "@Long": "3.270009041",
+        "@Function": "P30",
+        "$": "00.0001.A89E"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "141002",
+        "@Street": "Kuurnsesteenweg 110 (KOR)",
+        "@Lat": "50.84254074",
+        "@Long": "3.269957066",
+        "@Function": "P30",
+        "$": "00.0001.A8A9"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "141003",
+        "@Street": "Kuurnsesteenweg 41 (KOR)",
+        "@Lat": "50.84083176",
+        "@Long": "3.267571926",
+        "@Function": "P30",
+        "$": "00.0001.A8AC"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "141004",
+        "@Street": "Kuurnsesteenweg 41 (KOR)",
+        "@Lat": "50.84080505",
+        "@Long": "3.267510891",
+        "@Function": "P30",
+        "$": "00.0001.A8A7"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "143001",
+        "@Street": "Langemunteplein 1 (KOR)",
+        "@Lat": "50.81116486",
+        "@Long": "3.299427986",
+        "@Function": "P30",
+        "$": "00.0001.A800"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "143002",
+        "@Street": "Langemunteplein 1 (KOR)",
+        "@Lat": "50.81118393",
+        "@Long": "3.299403906",
+        "@Function": "P30",
+        "$": "00.0001.A7FF"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "143003",
+        "@Street": "Langemunteplein 1 (KOR)",
+        "@Lat": "50.81119919",
+        "@Long": "3.299381971",
+        "@Function": "P30",
+        "$": "00.0001.A7F7"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "143004",
+        "@Street": "Langemunteplein 1 (KOR)",
+        "@Lat": "50.81121826",
+        "@Long": "3.299359083",
+        "@Function": "P30",
+        "$": "00.0001.A819"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "143005",
+        "@Street": "Langemunteplein 1 (KOR)",
+        "@Lat": "50.81123734",
+        "@Long": "3.29933095",
+        "@Function": "P30",
+        "$": "00.0001.A86C"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "144001",
+        "@Street": "Guldenbergplantsoen 5 (KOR)",
+        "@Lat": "50.83098984",
+        "@Long": "3.269557953",
+        "@Function": "P30",
+        "$": "00.0001.A81F"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "144002",
+        "@Street": "Guldenbergplantsoen 5 (KOR)",
+        "@Lat": "50.83097839",
+        "@Long": "3.269534111",
+        "@Function": "P30",
+        "$": "00.0001.A2FB"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "144006",
+        "@Street": "Plein 2 (KOR)",
+        "@Lat": "50.83039856",
+        "@Long": "3.270529032",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A880"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "144007",
+        "@Street": "Plein 2 (KOR)",
+        "@Lat": "50.83043671",
+        "@Long": "3.270484924",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A864"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "144008",
+        "@Street": "Kleine Leiestraat 6 (KOR)",
+        "@Lat": "50.83048248",
+        "@Long": "3.27043891",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A823"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "144009",
+        "@Street": "Kleine Leiestraat 6 (KOR)",
+        "@Lat": "50.83052444",
+        "@Long": "3.270381927",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A821"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "144010",
+        "@Street": "Kleine Leiestraat 6 (KOR)",
+        "@Lat": "50.83055878",
+        "@Long": "3.270337105",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A87A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "145001",
+        "@Street": "Kerkstraat 36 (KUU)",
+        "@Lat": "50.85228348",
+        "@Long": "3.286572933",
+        "@Function": "P30",
+        "$": "00.0001.C1E6"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "145002",
+        "@Street": "Kerkstraat 36 (KUU)",
+        "@Lat": "50.85226059",
+        "@Long": "3.286556005",
+        "@Function": "P30",
+        "$": "00.0001.C296"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "145003",
+        "@Street": "Gen. Eisenhowerstraat 91 (KUU)",
+        "@Lat": "50.852314",
+        "@Long": "3.286407948",
+        "@Function": "P30",
+        "$": "00.0001.C1CA"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "145004",
+        "@Street": "Gen. Eisenhowerstraat 93 (KUU)",
+        "@Lat": "50.85233307",
+        "@Long": "3.286418915",
+        "@Function": "P30",
+        "$": "00.0001.C28A"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "145005",
+        "@Street": "Kerkstraat 46 (KUU)",
+        "@Lat": "50.8526268",
+        "@Long": "3.286837101",
+        "@Function": "P30",
+        "$": "00.0001.C26F"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "145006",
+        "@Street": "Kerkstraat 42 (KUU)",
+        "@Lat": "50.85259247",
+        "@Long": "3.286830902",
+        "@Function": "P30",
+        "$": "00.0001.C280"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "145007",
+        "@Street": "Kerkstraat 2 (KUU)",
+        "@Lat": "50.85109329",
+        "@Long": "3.286459923",
+        "@Function": "P30",
+        "$": "00.0001.C295"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "145008",
+        "@Street": "Kerkstraat 2 (KUU)",
+        "@Lat": "50.85104752",
+        "@Long": "3.286473036",
+        "@Function": "P30",
+        "$": "00.0001.C2CF"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "145009",
+        "@Street": "Koningin Elisabethstraat 3 (KUU)",
+        "@Lat": "50.85084915",
+        "@Long": "3.286226988",
+        "@Function": "P30",
+        "$": "00.0001.C2DC"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "145010",
+        "@Street": "Koningin Elisabethstraat 5 (KUU)",
+        "@Lat": "50.85086441",
+        "@Long": "3.286138058",
+        "@Function": "P30",
+        "$": "00.0001.C1CB"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "145011",
+        "@Street": "Gen. Eisenhowerstraat 63 (KUU)",
+        "@Lat": "50.85124588",
+        "@Long": "3.285308361",
+        "@Function": "P30",
+        "$": "00.0001.C3B7"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "145012",
+        "@Street": "Gen. Eisenhowerstraat 63 (KUU)",
+        "@Lat": "50.85128021",
+        "@Long": "3.285260201",
+        "@Function": "P30",
+        "$": "00.0001.C2CB"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "145013",
+        "@Street": "Gen. Eisenhowerstraat 63 (KUU)",
+        "@Lat": "50.85130692",
+        "@Long": "3.285219193",
+        "@Function": "P30",
+        "$": "00.0001.C1EC"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "108020",
+        "@Street": "Diksmuidekaai 2 (KOR)",
+        "@Lat": "50.83177567",
+        "@Long": "3.261652946",
+        "@Function": "P30",
+        "$": "00.0001.1D98"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "108021",
+        "@Street": "Diksmuidekaai 2 (KOR)",
+        "@Lat": "50.83175278",
+        "@Long": "3.261594057",
+        "@Function": "P30",
+        "$": "00.0001.1DC6"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "108022",
+        "@Street": "Diksmuidekaai 1 (KOR)",
+        "@Lat": "50.8317337",
+        "@Long": "3.261534929",
+        "@Function": "P30",
+        "$": "00.0001.1DA6"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "108023",
+        "@Street": "Rekollettenstraat 32 (KOR)",
+        "@Lat": "50.83214188",
+        "@Long": "3.259121895",
+        "@Function": "P30",
+        "$": "00.0001.283D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "108024",
+        "@Street": "Rekollettenstraat 24 (KOR)",
+        "@Lat": "50.83216858",
+        "@Long": "3.259200096",
+        "@Function": "P30",
+        "$": "00.0001.2840"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101023",
+        "@Street": "Burgemeester Reynaertstraat 19 (KOR)",
+        "@Lat": "50.82517242",
+        "@Long": "3.265059948",
+        "@Function": "P30",
+        "$": "00.0001.A851"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "135018",
+        "@Street": "Dam 8A (KOR)",
+        "@Lat": "50.83156586",
+        "@Long": "3.26432085",
+        "@Function": "P30",
+        "$": "00.0002.2038"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100027",
+        "@Street": "Doorniksestraat 41 (KOR)",
+        "@Lat": "50.8258667",
+        "@Long": "3.267276049",
+        "@Function": "P30",
+        "$": "00.0000.9922"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102068",
+        "@Street": "Veemarkt 18 (KOR)",
+        "@Lat": "50.8263855",
+        "@Long": "3.272948742",
+        "@Function": "P30",
+        "$": "00.0001.FD8B"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "127006",
+        "@Street": "Minister Liebaertlaan 58 (KOR)",
+        "@Lat": "50.8333931",
+        "@Long": "3.272188902",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A5BD"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "136026",
+        "@Street": "Burgemeester Schinkelstraat 29 (KOR)",
+        "@Lat": "50.83189392",
+        "@Long": "3.258878708",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7D7A"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "103015",
+        "@Street": "Plein 20 (KOR)",
+        "@Lat": "50.82975769",
+        "@Long": "3.273844957",
+        "@Function": "P30",
+        "$": "00.0001.2892"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100006",
+        "@Street": "Spoorweglaan 4 (KOR)",
+        "@Lat": "50.82463837",
+        "@Long": "3.268774986",
+        "@Function": "P30",
+        "$": "00.0001.501C"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "129015",
+        "@Street": "Gasstraat 9 (KOR)",
+        "@Lat": "50.8309288",
+        "@Long": "3.256599903",
+        "@Function": "CARS",
+        "$": "00.0001.7D60"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102065",
+        "@Street": "Veemarkt 52 (KOR)",
+        "@Lat": "50.82642746",
+        "@Long": "3.273710012",
+        "@Function": "BEWONERS",
+        "$": "00.0001.FD88"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "105002",
+        "@Street": "Dolfijnkaai 4 (KOR)",
+        "@Lat": "50.82939148",
+        "@Long": "3.263982058",
+        "@Function": "Disabled",
+        "$": "00.0000.C366"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "100010",
+        "@Street": "Vlasmarkt 4 (KOR)",
+        "@Lat": "50.82561874",
+        "@Long": "3.267920971",
+        "@Function": "P30",
+        "$": "00.0002.0CF4"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103058",
+        "@Street": "Plein 54 (KOR)",
+        "@Lat": "50.82965088",
+        "@Long": "3.271524906",
+        "@Function": "BEWONERS",
+        "$": "00.0001.286C"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102047",
+        "@Street": "Groeningelaan 42B (KOR)",
+        "@Lat": "50.82790756",
+        "@Long": "3.27603507",
+        "@Function": "P30",
+        "$": "00.0001.A888"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106007",
+        "@Street": "Minister Tacklaan 55 (KOR)",
+        "@Lat": "50.82356262",
+        "@Long": "3.263099909",
+        "@Function": "P30",
+        "$": "00.0001.5008"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100063",
+        "@Street": "Sint-Jorisstraat 10 (KOR)",
+        "@Lat": "50.82515717",
+        "@Long": "3.266316891",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A811"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101007",
+        "@Street": "Koning Albertstraat 94 (KOR)",
+        "@Lat": "50.82645035",
+        "@Long": "3.261584997",
+        "@Function": "P30",
+        "$": "00.0000.C21B"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101008",
+        "@Street": "Oude-Vestingsstraat 19 (KOR)",
+        "@Lat": "50.82663727",
+        "@Long": "3.261854887",
+        "@Function": "P30",
+        "$": "00.0001.A876"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "145011",
+        "@Street": "Gen. Eisenhowerstraat 63 (KUU)",
+        "@Lat": "50.85124588",
+        "@Long": "3.285308361",
+        "@Function": "P30",
+        "$": "00.0001.C3B7"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "100064",
+        "@Street": "Sint-Jorisstraat 10 (KOR)",
+        "@Lat": "50.82518387",
+        "@Long": "3.266269922",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A88E"
+      },
+      {
+        "@State": "Unknown",
+        "@Parkingbay": "",
+        "@Street": "",
+        "@Lat": "",
+        "@Long": "",
+        "@Function": "",
+        "$": "00.0001.777B"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "104017",
+        "@Street": "Zandstraat 28 (KOR)",
+        "@Lat": "50.82459259",
+        "@Long": "3.258836985",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A89D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "108024",
+        "@Street": "Rekollettenstraat 24 (KOR)",
+        "@Lat": "50.83216858",
+        "@Long": "3.259200096",
+        "@Function": "P30",
+        "$": "00.0001.2840"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "112023",
+        "@Street": "Kortrijksestraat 44 (HEU)",
+        "@Lat": "50.84025574",
+        "@Long": "3.235203028",
+        "@Function": "P30",
+        "$": "00.0001.C2D9"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "105036",
+        "@Street": "Rijselsestraat 7 (KOR)",
+        "@Lat": "50.82778168",
+        "@Long": "3.264280081",
+        "@Function": "P30",
+        "$": "00.0002.0868"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "144009",
+        "@Street": "Kleine Leiestraat 6 (KOR)",
+        "@Lat": "50.83052444",
+        "@Long": "3.270381927",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A821"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102026",
+        "@Street": "Veemarkt 16 (KOR)",
+        "@Lat": "50.82629013",
+        "@Long": "3.272725105",
+        "@Function": "P30",
+        "$": "00.0000.BE57"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "111007",
+        "@Street": "Izegemsestraat 199 (HEU)",
+        "@Lat": "50.84210587",
+        "@Long": "3.256869555",
+        "@Function": "P30",
+        "$": "00.0000.D15D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101013",
+        "@Street": "Jan Palfijnstraat 6 (KOR)",
+        "@Lat": "50.82616043",
+        "@Long": "3.263654947",
+        "@Function": "P30",
+        "$": "00.0001.A874"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "136014",
+        "@Street": "Burgemeester Schinkelstraat 4 (KOR)",
+        "@Lat": "50.8309288",
+        "@Long": "3.259629488",
+        "@Function": "BEWONERS",
+        "$": "00.0001.7DA5"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101002",
+        "@Street": "Koning Albertstraat 66 (KOR)",
+        "@Lat": "50.82612228",
+        "@Long": "3.262126923",
+        "@Function": "P30",
+        "$": "00.0001.A597"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "140014",
+        "@Street": "Ijzerkaai 49 (KOR)",
+        "@Lat": "50.83291245",
+        "@Long": "3.267781973",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A85B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "114008",
+        "@Street": "Markeplaats 9 (MAR)",
+        "@Lat": "50.80691147",
+        "@Long": "3.233409882",
+        "@Function": "P30",
+        "$": "00.0000.C36B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "106013",
+        "@Street": "Minister Tacklaan 19B (KOR)",
+        "@Lat": "50.82381821",
+        "@Long": "3.266083956",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A300"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "112015",
+        "@Street": "Kortrijksestraat 25 (HEU)",
+        "@Lat": "50.84215927",
+        "@Long": "3.234899998",
+        "@Function": "P30",
+        "$": "00.0001.C257"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "",
+        "@Street": "",
+        "@Lat": "",
+        "@Long": "",
+        "@Function": "",
+        "$": "00.0000.C359"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "",
+        "@Street": "",
+        "@Lat": "",
+        "@Long": "",
+        "@Function": "",
+        "$": "00.0000.C351"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101095",
+        "@Street": "Oude-Vestingsstraat 17 (KOR)",
+        "@Lat": "50.82646561",
+        "@Long": "3.263839245",
+        "@Function": "BEWONERS",
+        "$": "00.0002.2D05"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "103006",
+        "@Street": "Romeinselaan 13 (KOR)",
+        "@Lat": "50.82725143",
+        "@Long": "3.27264595",
+        "@Function": "P30",
+        "$": "00.0001.5001"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104038",
+        "@Street": "Edmond De Praterestraat 1 (KOR)",
+        "@Lat": "50.82755661",
+        "@Long": "3.258518934",
+        "@Function": "BEWONERS",
+        "$": "00.0002.046D"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "102009",
+        "@Street": "Spoorweglaan 25 (KOR)",
+        "@Lat": "50.82481003",
+        "@Long": "3.271570921",
+        "@Function": "P30",
+        "$": "00.0001.502B"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "104008",
+        "@Street": "Beheerstraat 62 (KOR)",
+        "@Lat": "50.82821274",
+        "@Long": "3.257084608",
+        "@Function": "P30",
+        "$": "00.0001.A58F"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "102036",
+        "@Street": "Veemarkt 80 (KOR)",
+        "@Lat": "50.82640076",
+        "@Long": "3.275151968",
+        "@Function": "P30",
+        "$": "00.0001.A854"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101002",
+        "@Street": "Koning Albertstraat 66 (KOR)",
+        "@Lat": "50.82612228",
+        "@Long": "3.262126923",
+        "@Function": "P30",
+        "$": "00.0001.A597"
+      },
+      {
+        "@State": "Free",
+        "@Parkingbay": "101091",
+        "@Street": "Oude-Vestingsstraat 17 (KOR)",
+        "@Lat": "50.82654585",
+        "@Long": "3.263516128",
+        "@Function": "P30",
+        "$": "00.0002.0A1D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "104017",
+        "@Street": "Zandstraat 28 (KOR)",
+        "@Lat": "50.82459259",
+        "@Long": "3.258836985",
+        "@Function": "BEWONERS",
+        "$": "00.0001.A89D"
+      },
+      {
+        "@State": "Occupied",
+        "@Parkingbay": "101002",
+        "@Street": "Koning Albertstraat 66 (KOR)",
+        "@Lat": "50.82612228",
+        "@Long": "3.262126923",
+        "@Function": "P30",
+        "$": "00.0001.A597"
+      }
+    ]
+  }
+}

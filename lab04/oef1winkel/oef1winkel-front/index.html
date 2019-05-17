@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <link rel="stylesheet" href="css/screen.css"/>
+    <title>Winkel</title>
+</head>
+
+<body>
+<main class="container">
+    <h1>MCT Webshop</h1>
+    <h2>Bestelling</h2>
+    <form action="http://127.0.0.1:5000/api/v1/payment" method="POST">
+        <div class="row">
+            <label>Product</label>
+
+            <select name="product">
+                <option value="100">T-shirt</option>
+                <option value="101">Pull</option>
+                <option value="102">Koffietas</option>
+            </select>
+        </div>
+
+        <div class="row">
+            <label>Aantal</label>
+
+            <input type="number" name="aantal" min="1" max="99" required/>
+        </div>
+
+        <div class="row">
+            <input type="submit" name="send" value="Verzenden" id="submit"/>
+        </div>
+    </form>
+</main>
+</body>
+</html>
