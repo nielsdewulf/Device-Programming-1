@@ -4,6 +4,8 @@ const socket = io.connect(IP);
 const listenToToggle = function () {
     document.querySelector('.js-chk').addEventListener('input', function (el) {
         socket.emit('toggle');
+        document.querySelector('.js-chk').checked = !document.querySelector('.js-chk').checked;
+        el.preventDefault();
     })
     socket.on('connect', function (data) {
         if (data) {
@@ -12,6 +14,7 @@ const listenToToggle = function () {
         }
     })
     socket.on('haha', function () {
+        document.querySelector('.js-chk').checked = !document.querySelector('.js-chk').checked;
         console.log(!document.querySelector('.js-chk').checked)
     })
 }

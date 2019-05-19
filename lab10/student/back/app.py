@@ -31,7 +31,6 @@ def toggle():
     is_published = not is_published
     socketio.emit('haha')
 
-
 # TESTROUTE
 @app.route(endpoint + '/kieskringen')
 def get_data():
