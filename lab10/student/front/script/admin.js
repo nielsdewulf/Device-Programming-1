@@ -12,7 +12,7 @@ const listenToToggle = function () {
         }
     })
     socket.on('haha', function () {
-        document.querySelector('.js-chk').checked = !document.querySelector('.js-chk').checked;
+        console.log(!document.querySelector('.js-chk').checked)
     })
 }
 
